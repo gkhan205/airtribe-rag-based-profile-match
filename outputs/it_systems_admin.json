@@ -1,0 +1,523 @@
+{
+  "job_description": "IT Systems Administrator\n\nWe are looking for an IT Systems Administrator to own our on-premise and cloud infrastructure and lead the help desk for a 400-person organization.\n\nResponsibilities\n- Administer Windows Server, Active Directory, DNS/DHCP and group policies\n- Maintain VMware virtualization hosts and Office 365 / Azure tenants\n- Manage LAN/WAN, VPN, firewalls and network security monitoring\n- Lead technical support and troubleshooting for hardware and software issues\n- Document procedures and drive ITIL-aligned incident management\n\nRequirements\n- Must have: 3+ years of IT experience\n- Must have: Networking (LAN/WAN, TCP/IP)\n- Hands-on Technical Support and Active Directory administration\n- Bachelor's degree in Information Technology, Computer Science or related field\n- Nice to have: Linux, ITIL certification, SharePoint, scripting in Python",
+  "job_title": "IT Systems Administrator",
+  "parsed_requirements": {
+    "required_skills": [
+      "Cloud",
+      "Technical Support",
+      "Windows Server",
+      "Active Directory",
+      "Networking",
+      "Virtualization",
+      "Cybersecurity",
+      "ITIL"
+    ],
+    "preferred_skills": [
+      "Python",
+      "Linux",
+      "SharePoint"
+    ],
+    "must_haves": [
+      "3+ years experience",
+      "Networking"
+    ],
+    "min_years": 3.0,
+    "degree_level": 3
+  },
+  "mode": "hybrid",
+  "top_matches": [
+    {
+      "candidate_name": "Hannah Fischer",
+      "resume_path": "resumes/hannah_fischer.pdf",
+      "match_score": 67,
+      "matched_skills": [
+        "Cloud",
+        "Technical Support",
+        "Windows Server",
+        "Networking",
+        "Cybersecurity"
+      ],
+      "relevant_excerpts": [
+        "[Summary] I am a solutions-oriented professional with solid experience in various IT environments. LEADERSHIP Motivating and managing and a robust",
+        "[Experience] In this capacity I managed a project support team including administrators, help desk staff and trainers.",
+        "[Experience] Maintenance Cloud Technologies Cyber Security (NITS, CIS, HITRUST/HIPAA) Project Management Technical Support Management"
+      ],
+      "reasoning": "Strong semantic match for 'IT Systems Administrator' in Summary, Experience (headline: Director Of Information Technology); covers 5/8 required skills (Cloud, Technical Support, Windows Server, Networking, Cybersecurity); missing Active Directory, Virtualization, ITIL; ~9.9 yrs experience (meets 3+ asked); Master.",
+      "missing_skills": [
+        "Active Directory",
+        "Virtualization",
+        "ITIL"
+      ],
+      "matched_sections": [
+        "summary",
+        "experience"
+      ],
+      "experience_years": 9.9,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.645,
+        "skills": 0.571,
+        "keyword": 0.677,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Zara Ali",
+      "resume_path": "resumes/zara_ali.pdf",
+      "match_score": 49,
+      "matched_skills": [
+        "Technical Support",
+        "Networking"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Worked across all levels of the organization to support the Corporate Information Officer (CIO) and the Senior Leadership Team.",
+        "[Experience] Collect, compile and interpret data as it relates to business critical vulnerabilities.",
+        "[Experience] Coordinated the support function in the Law School Division, Chicago Office."
+      ],
+      "reasoning": "Moderate semantic match for 'IT Systems Administrator' in Experience (headline: Information Technology Coordinator); covers 2/8 required skills (Technical Support, Networking); missing Cloud, Windows Server, Active Directory, Virtualization; ~9.6 yrs experience (meets 3+ asked); Bachelor.",
+      "missing_skills": [
+        "Cloud",
+        "Windows Server",
+        "Active Directory",
+        "Virtualization",
+        "Cybersecurity",
+        "ITIL"
+      ],
+      "matched_sections": [
+        "experience"
+      ],
+      "experience_years": 9.6,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.494,
+        "skills": 0.286,
+        "keyword": 0.431,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Chen Wang",
+      "resume_path": "resumes/chen_wang.pdf",
+      "match_score": 47,
+      "matched_skills": [
+        "Networking"
+      ],
+      "relevant_excerpts": [
+        "[Profile] INFORMATION TECHNOLOGY (IT) SPECIALIST",
+        "[Experience] Integrated various IT sub-systems based on system dependencies, technical adequacies, and customers' need.",
+        "[Experience] Army Information Systems Engineering Command (USAISEC) on projects involving large and complex data networks and"
+      ],
+      "reasoning": "Moderate semantic match for 'IT Systems Administrator' in Experience (headline: Information Technology (It) Specialist); covers 1/8 required skills (Networking); missing Cloud, Technical Support, Windows Server, Active Directory; ~11.8 yrs experience (meets 3+ asked); Bachelor in Information Technology.",
+      "missing_skills": [
+        "Cloud",
+        "Technical Support",
+        "Windows Server",
+        "Active Directory",
+        "Virtualization",
+        "Cybersecurity",
+        "ITIL"
+      ],
+      "matched_sections": [
+        "profile",
+        "experience"
+      ],
+      "experience_years": 11.8,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.509,
+        "skills": 0.19,
+        "keyword": 0.433,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Fatima Rahman",
+      "resume_path": "resumes/fatima_rahman.pdf",
+      "match_score": 33,
+      "matched_skills": [
+        "Networking"
+      ],
+      "relevant_excerpts": [
+        "[Experience] I monitor the floor to maintain order and answer any questions if I am the designated Rep II for the day.",
+        "[Experience] I then moved to the Outbound team where I was there in the beginning of the team development.",
+        "[Profile] CUSTOMER SERVICE REP 1 LEAD QUALITY ASSURANCE COACH ACCOUNT RELATIONSHIP SPECIALIST ONLINE"
+      ],
+      "reasoning": "Weak semantic match for 'IT Systems Administrator' in Experience (headline: Customer Service Rep 1 Lead Quality Assurance Coach Account Relationship Special); covers 1/8 required skills (Networking); missing Cloud, Technical Support, Windows Server, Active Directory; ~11.1 yrs experience (meets 3+ asked); Diploma/Certificate in Professional Sales.",
+      "missing_skills": [
+        "Cloud",
+        "Technical Support",
+        "Windows Server",
+        "Active Directory",
+        "Virtualization",
+        "Cybersecurity",
+        "ITIL"
+      ],
+      "matched_sections": [
+        "experience",
+        "profile"
+      ],
+      "experience_years": 11.1,
+      "education": "Diploma/Certificate",
+      "score_breakdown": {
+        "semantic": 0.324,
+        "skills": 0.19,
+        "keyword": 0.234,
+        "qualification": 0.85
+      }
+    },
+    {
+      "candidate_name": "Amara Okafor",
+      "resume_path": "resumes/amara_okafor.pdf",
+      "match_score": 33,
+      "matched_skills": [
+        "Networking"
+      ],
+      "relevant_excerpts": [
+        "[Skills] Results-oriented, Self-directed, Microsoft Office proficiency, Time management, Strong problem",
+        "[Experience] Respond to customer inquiries and provide excellent customer service.",
+        "[Summary] Diverse experience in Accounting, Credit Union Financial Services, Retail Sales, Customer Service, Telemarketing, Food & Beverage,"
+      ],
+      "reasoning": "Weak semantic match for 'IT Systems Administrator' in Skills, Experience, Summary (headline: Hr Payroll/ Accounting Representative); covers 1/8 required skills (Networking); missing Cloud, Technical Support, Windows Server, Active Directory; ~5.2 yrs experience (meets 3+ asked); Bachelor in Business Finance.",
+      "missing_skills": [
+        "Cloud",
+        "Technical Support",
+        "Windows Server",
+        "Active Directory",
+        "Virtualization",
+        "Cybersecurity",
+        "ITIL"
+      ],
+      "matched_sections": [
+        "skills",
+        "experience",
+        "summary"
+      ],
+      "experience_years": 5.2,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.294,
+        "skills": 0.19,
+        "keyword": 0.192,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Kwame Mensah",
+      "resume_path": "resumes/kwame_mensah.pdf",
+      "match_score": 33,
+      "matched_skills": [
+        "Networking"
+      ],
+      "relevant_excerpts": [
+        "[Skills] Basis, Budget, Case Management, Long-term Disability, Ltd, Networking, Opex, Payments, Project Coordinator, Project Manager, Purchase",
+        "[Experience] Develop/maintain project schedule information - using MS Project 2013",
+        "[Experience] set strategic plan \u00e2\u2014\u00a6 project manage plan for coming year \u00e2\u2014\u00a6 monitor it on a three monthly basis."
+      ],
+      "reasoning": "Weak semantic match for 'IT Systems Administrator' in Skills, Experience (headline: Project Coordinator); covers 1/8 required skills (Networking); missing Cloud, Technical Support, Windows Server, Active Directory; ~11 yrs experience (meets 3+ asked); Diploma/Certificate in Health & Human Development.",
+      "missing_skills": [
+        "Cloud",
+        "Technical Support",
+        "Windows Server",
+        "Active Directory",
+        "Virtualization",
+        "Cybersecurity",
+        "ITIL"
+      ],
+      "matched_sections": [
+        "skills",
+        "experience"
+      ],
+      "experience_years": 11.0,
+      "education": "Diploma/Certificate",
+      "score_breakdown": {
+        "semantic": 0.316,
+        "skills": 0.19,
+        "keyword": 0.203,
+        "qualification": 0.85
+      }
+    },
+    {
+      "candidate_name": "Sofia Rossi",
+      "resume_path": "resumes/sofia_rossi.pdf",
+      "match_score": 31,
+      "matched_skills": [
+        "Networking"
+      ],
+      "relevant_excerpts": [
+        "[Summary] networking, community engagement, building partnerships, training, and educational equity.",
+        "[Summary] 9 years of professional experience in teaching, facilitating, and training",
+        "[Experience] Knowledge and understanding of DPS practices, framework, and mission"
+      ],
+      "reasoning": "Weak semantic match for 'IT Systems Administrator' in Summary, Experience (headline: Teacher); covers 1/8 required skills (Networking); missing Cloud, Technical Support, Windows Server, Active Directory; ~9 yrs experience (meets 3+ asked); Bachelor in Political Communications May.",
+      "missing_skills": [
+        "Cloud",
+        "Technical Support",
+        "Windows Server",
+        "Active Directory",
+        "Virtualization",
+        "Cybersecurity",
+        "ITIL"
+      ],
+      "matched_sections": [
+        "summary",
+        "experience"
+      ],
+      "experience_years": 9,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.252,
+        "skills": 0.19,
+        "keyword": 0.233,
+        "qualification": 1.0
+      }
+    }
+  ],
+  "filtered_out": [
+    {
+      "candidate_name": "Leila Nasser",
+      "reasons": [
+        "1.8 yrs experience < 3 required"
+      ]
+    },
+    {
+      "candidate_name": "Chloe Dubois",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Aisha Bello",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Maya Shah",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Rosa Diaz",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Mateo Lopez",
+      "reasons": [
+        "2.9 yrs experience < 3 required",
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Grace Kim",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Priya Patel",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Mia Young",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Elena Popescu",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "James Smith",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Daniel Miller",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Emma Brown",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Ahmed Khan",
+      "reasons": [
+        "0.9 yrs experience < 3 required",
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Pavel Volkov",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Diego Torres",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Noah Wilson",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Maria Garcia",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Victor Novak",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Samuel Turner",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Yuki Tanaka",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Nadia Hassan",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Kenji Sato",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Leo Moreau",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Ethan Clark",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Ravi Iyer",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Isabel Costa",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Sara Cohen",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Ruth Adler",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Omar Haddad",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Tariq Aziz",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Ines Ferreira",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Olivia Evans",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Felix Weber",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Lina Saleh",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Andre Moore",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Arjun Mehta",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Ana Pereira",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    },
+    {
+      "candidate_name": "Jonah Reed",
+      "reasons": [
+        "missing must-have skill Networking"
+      ]
+    }
+  ],
+  "stats": {
+    "resumes_indexed": 50,
+    "candidates_considered": 46,
+    "passed_filters": 7,
+    "timings_ms": {
+      "embed_query": 24.5,
+      "faiss_search": 0.06,
+      "total": 56.8
+    }
+  }
+}

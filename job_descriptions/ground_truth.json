@@ -1,0 +1,75 @@
+{
+  "_notes": "Graded relevance per JD: 2 = relevant (same occupational category), 1 = partially relevant (adjacent role, hand-picked after reading the resume). Unlisted = 0. Derived from resumes/_labels.json categories plus manual review.",
+  "judgments": {
+    "it_systems_admin.txt": {
+      "leila_nasser": 2,
+      "chloe_dubois": 2,
+      "zara_ali": 2,
+      "hannah_fischer": 2,
+      "chen_wang": 2,
+      "aisha_bello": 1
+    },
+    "staff_accountant.txt": {
+      "ines_ferreira": 2,
+      "ethan_clark": 2,
+      "mia_young": 2,
+      "andre_moore": 2,
+      "elena_popescu": 2,
+      "felix_weber": 1,
+      "omar_haddad": 1,
+      "samuel_turner": 1,
+      "sara_cohen": 1,
+      "james_smith": 1,
+      "amara_okafor": 1
+    },
+    "hr_generalist.txt": {
+      "isabel_costa": 2,
+      "amara_okafor": 2,
+      "ravi_iyer": 2,
+      "priya_patel": 2,
+      "rosa_diaz": 2
+    },
+    "finance_manager.txt": {
+      "felix_weber": 2,
+      "omar_haddad": 2,
+      "samuel_turner": 2,
+      "sara_cohen": 2,
+      "james_smith": 2,
+      "ines_ferreira": 1,
+      "ethan_clark": 1,
+      "mia_young": 1,
+      "andre_moore": 1,
+      "elena_popescu": 1
+    },
+    "sales_associate.txt": {
+      "arjun_mehta": 2,
+      "diego_torres": 2,
+      "leo_moreau": 2,
+      "ivan_petrov": 2,
+      "marco_bianchi": 2,
+      "fatima_rahman": 1,
+      "ruth_adler": 1
+    },
+    "graphic_designer.txt": {
+      "hugo_martin": 2,
+      "jonah_reed": 2,
+      "grace_kim": 2,
+      "tariq_aziz": 1,
+      "pavel_volkov": 1
+    },
+    "teacher.txt": {
+      "sofia_rossi": 2,
+      "victor_novak": 2,
+      "daniel_miller": 2,
+      "lucas_silva": 2,
+      "mateo_lopez": 2
+    },
+    "quality_engineer.txt": {
+      "lina_saleh": 2,
+      "kenji_sato": 2,
+      "emma_brown": 2,
+      "nadia_hassan": 2,
+      "noah_wilson": 2
+    }
+  }
+}

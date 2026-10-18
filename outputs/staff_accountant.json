@@ -1,0 +1,527 @@
+{
+  "job_description": "Staff Accountant\n\nOur finance team needs a detail-oriented Staff Accountant to support month-end close and financial reporting.\n\nResponsibilities\n- Prepare journal entries and maintain the general ledger\n- Perform account reconciliations (bank, intercompany, balance sheet)\n- Process accounts payable and accounts receivable\n- Prepare monthly financial statements in accordance with GAAP\n- Support external audits and tax filings\n\nRequirements\n- Must have: 3+ years of Accounting experience\n- Advanced Excel (pivot tables, VLOOKUP) and Reconciliation skills\n- Bachelor's degree in Accounting or Finance; CPA a plus\n- Experience with SAP, Oracle or QuickBooks preferred",
+  "job_title": "Staff Accountant",
+  "parsed_requirements": {
+    "required_skills": [
+      "Financial Reporting",
+      "General Ledger",
+      "Reconciliation",
+      "Accounts Payable",
+      "Accounts Receivable",
+      "Auditing",
+      "Tax",
+      "Accounting",
+      "Excel"
+    ],
+    "preferred_skills": [
+      "CPA",
+      "SAP",
+      "Oracle",
+      "QuickBooks"
+    ],
+    "must_haves": [
+      "3+ years Accounting"
+    ],
+    "min_years": 3.0,
+    "degree_level": 3
+  },
+  "mode": "hybrid",
+  "top_matches": [
+    {
+      "candidate_name": "Omar Haddad",
+      "resume_path": "resumes/omar_haddad.pdf",
+      "match_score": 83,
+      "matched_skills": [
+        "Financial Reporting",
+        "General Ledger",
+        "Reconciliation",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Auditing",
+        "Accounting",
+        "Excel",
+        "SAP"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Supervise the media finance, production, client finance, accounts payable and accounts receivable departments.",
+        "[Experience] Ensure that all monthly balance sheet reconciliations are completed and any reconciling items are addressed and resolved.",
+        "[Experience] Prepared and reconciled accrual and deferral schedules on a monthly basis."
+      ],
+      "reasoning": "Strong semantic match for 'Staff Accountant' in Experience (headline: Senior Finance Manager); covers 8/9 required skills (Financial Reporting, General Ledger, Reconciliation, Accounts Payable, Accounts Receivable, Auditing); missing Tax; ~8.1 yrs experience (meets 3+ asked); Master.",
+      "missing_skills": [
+        "Tax"
+      ],
+      "matched_sections": [
+        "experience"
+      ],
+      "experience_years": 8.1,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.794,
+        "skills": 0.792,
+        "keyword": 0.991,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Andre Moore",
+      "resume_path": "resumes/andre_moore.pdf",
+      "match_score": 78,
+      "matched_skills": [
+        "Financial Reporting",
+        "General Ledger",
+        "Reconciliation",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Auditing",
+        "Tax",
+        "Accounting",
+        "CPA",
+        "SAP",
+        "QuickBooks"
+      ],
+      "relevant_excerpts": [
+        "[Skills] Account reconciliations, accounting, accountant, Accounting Manager, accounts payable, accounts receivable, administrative, artist, Art,",
+        "[Skills] Accounts Payable/Receivable",
+        "[Experience] I started in Accounts Payable, then receivables and then inventory control."
+      ],
+      "reasoning": "Strong semantic match for 'Staff Accountant' in Skills, Experience (headline: Accountant); covers 8/9 required skills (Financial Reporting, General Ledger, Reconciliation, Accounts Payable, Accounts Receivable, Auditing); missing Excel; ~31.5 yrs experience (meets 3+ asked); Bachelor in Business Administration.",
+      "missing_skills": [
+        "Excel"
+      ],
+      "matched_sections": [
+        "skills",
+        "experience"
+      ],
+      "experience_years": 31.5,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.661,
+        "skills": 0.875,
+        "keyword": 1.0,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Ethan Clark",
+      "resume_path": "resumes/ethan_clark.pdf",
+      "match_score": 69,
+      "matched_skills": [
+        "General Ledger",
+        "Reconciliation",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Auditing",
+        "Accounting"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Responsible for all Accounts Payable using Foundation software Responsible for all Accounts Receivable including AIA billings, lien",
+        "[Experience] account balances.Coded the general ledger and processed vendor invoice payments.Coordinated approval processes of all accounts",
+        "[Summary] Quality-focused accounting professional with over 15 years processing invoices, managing vendors and auditing expense reports. A strong desire"
+      ],
+      "reasoning": "Strong semantic match for 'Staff Accountant' in Experience, Summary (headline: Project Accountant); covers 6/9 required skills (General Ledger, Reconciliation, Accounts Payable, Accounts Receivable, Auditing, Accounting); missing Financial Reporting, Tax, Excel; ~8.1 yrs experience (meets 3+ asked).",
+      "missing_skills": [
+        "Financial Reporting",
+        "Tax",
+        "Excel"
+      ],
+      "matched_sections": [
+        "experience",
+        "summary"
+      ],
+      "experience_years": 8.1,
+      "education": null,
+      "score_breakdown": {
+        "semantic": 0.738,
+        "skills": 0.583,
+        "keyword": 0.639,
+        "qualification": 0.775
+      }
+    },
+    {
+      "candidate_name": "Samuel Turner",
+      "resume_path": "resumes/samuel_turner.pdf",
+      "match_score": 66,
+      "matched_skills": [
+        "Financial Reporting",
+        "General Ledger",
+        "Reconciliation",
+        "Auditing",
+        "Accounting",
+        "CPA",
+        "Oracle"
+      ],
+      "relevant_excerpts": [
+        "[Skills] Accepted Accounting Principles (GAAP)",
+        "[Experience] Manage financial and accounting functions for the manufacturing plant generating annual external sales $65M and internal sales $35M.",
+        "[Skills] Cost Accounting, Variance Analysis, Cost Reduction, Standard and Actual Costing, GAAP, Hyperion"
+      ],
+      "reasoning": "Strong semantic match for 'Staff Accountant' in Skills, Experience (headline: Finance Manager / Plant Controller); covers 5/9 required skills (Financial Reporting, General Ledger, Reconciliation, Auditing, Accounting); missing Accounts Payable, Accounts Receivable, Tax, Excel; ~9.1 yrs experience (meets 3+ asked); Master in Accountancy.",
+      "missing_skills": [
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Tax",
+        "Excel"
+      ],
+      "matched_sections": [
+        "skills",
+        "experience"
+      ],
+      "experience_years": 9.1,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.656,
+        "skills": 0.583,
+        "keyword": 0.572,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "James Smith",
+      "resume_path": "resumes/james_smith.pdf",
+      "match_score": 66,
+      "matched_skills": [
+        "Financial Reporting",
+        "General Ledger",
+        "Reconciliation",
+        "Accounts Payable",
+        "Accounting",
+        "Excel"
+      ],
+      "relevant_excerpts": [
+        "[Experience] .Improved accuracy of payroll journal entries by developing and implementing a payroll reconciliation tool.",
+        "[Summary] Exceptional Payroll Administrator with a background in finance seeks to provide administrative, accounting and payroll support to an energetic",
+        "[Skills] TOMPRO/TOMFED/TOMON Financial Accounting Software for EDF projects and programs"
+      ],
+      "reasoning": "Strong semantic match for 'Staff Accountant' in Experience, Summary, Skills (headline: Contracts And Finance Officer); covers 6/9 required skills (Financial Reporting, General Ledger, Reconciliation, Accounts Payable, Accounting, Excel); missing Accounts Receivable, Auditing, Tax; ~7.6 yrs experience (meets 3+ asked); Master.",
+      "missing_skills": [
+        "Accounts Receivable",
+        "Auditing",
+        "Tax"
+      ],
+      "matched_sections": [
+        "experience",
+        "summary",
+        "skills"
+      ],
+      "experience_years": 7.6,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.649,
+        "skills": 0.583,
+        "keyword": 0.531,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Sara Cohen",
+      "resume_path": "resumes/sara_cohen.pdf",
+      "match_score": 65,
+      "matched_skills": [
+        "Financial Reporting",
+        "General Ledger",
+        "Accounts Payable",
+        "Auditing",
+        "Accounting",
+        "CPA"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Review stand-alone financial statements for subsidiaries, including an SEC registrant.",
+        "[Skills] accounting, Accountant, accounts payable, analyst, approach, billing, bonds, budgets, budget, CA, hardware, Certified Public Accountant, Client,",
+        "[Experience] Responsible for ensuring consistency of application of capitalized interest under SFAS 34."
+      ],
+      "reasoning": "Strong semantic match for 'Staff Accountant' in Experience, Skills (headline: Finance Director And Treasurer); covers 5/9 required skills (Financial Reporting, General Ledger, Accounts Payable, Auditing, Accounting); missing Reconciliation, Accounts Receivable, Tax, Excel; ~11.8 yrs experience (meets 3+ asked); Master in Business.",
+      "missing_skills": [
+        "Reconciliation",
+        "Accounts Receivable",
+        "Tax",
+        "Excel"
+      ],
+      "matched_sections": [
+        "experience",
+        "skills"
+      ],
+      "experience_years": 11.8,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.638,
+        "skills": 0.542,
+        "keyword": 0.619,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Elena Popescu",
+      "resume_path": "resumes/elena_popescu.pdf",
+      "match_score": 65,
+      "matched_skills": [
+        "Financial Reporting",
+        "General Ledger",
+        "Reconciliation",
+        "Auditing",
+        "Accounting"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Prepares necessary adjusting journal entries and period end financial statements.",
+        "[Experience] Prepares necessary adjusting journal entries and period end financial statements.",
+        "[Summary] Emerging accounting professional ready to develop career foundation with expanding operation. Dedicated to keeping records accurate and"
+      ],
+      "reasoning": "Strong semantic match for 'Staff Accountant' in Experience, Summary (headline: Accountant); covers 5/9 required skills (Financial Reporting, General Ledger, Reconciliation, Auditing, Accounting); missing Accounts Payable, Accounts Receivable, Tax, Excel; ~8 yrs experience (meets 3+ asked); Bachelor in Accounting and Finance.",
+      "missing_skills": [
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Tax",
+        "Excel"
+      ],
+      "matched_sections": [
+        "experience",
+        "summary"
+      ],
+      "experience_years": 8.0,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.682,
+        "skills": 0.5,
+        "keyword": 0.482,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Felix Weber",
+      "resume_path": "resumes/felix_weber.pdf",
+      "match_score": 63,
+      "matched_skills": [
+        "Financial Reporting",
+        "General Ledger",
+        "Accounting",
+        "Excel",
+        "CPA"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Managed team responsible for the weekly 90 day cash forecasting process during time of significant market/liquidity stress. Responsibilities",
+        "[Experience] Manage forecasting, outlook, reporting and sales compensation process for Structured Product Services Group of Corporate Trust. Asset",
+        "[Skills] Significant Budget/forecasting experience with a focus on process improvement"
+      ],
+      "reasoning": "Strong semantic match for 'Staff Accountant' in Experience, Skills (headline: Finance Manager); covers 4/9 required skills (Financial Reporting, General Ledger, Accounting, Excel); missing Reconciliation, Accounts Payable, Accounts Receivable, Auditing; ~9.9 yrs experience (meets 3+ asked); Master in Finance & Strategic Management.",
+      "missing_skills": [
+        "Reconciliation",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Auditing",
+        "Tax"
+      ],
+      "matched_sections": [
+        "experience",
+        "skills"
+      ],
+      "experience_years": 9.9,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.658,
+        "skills": 0.458,
+        "keyword": 0.509,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Amara Okafor",
+      "resume_path": "resumes/amara_okafor.pdf",
+      "match_score": 61,
+      "matched_skills": [
+        "General Ledger",
+        "Reconciliation",
+        "Accounts Payable",
+        "Accounting",
+        "Excel"
+      ],
+      "relevant_excerpts": [
+        "[Accomplishments] Operated computers programmed with accounting software to record, store, and analyze information.",
+        "[Experience] Assisted in all payroll duties including but not limited to: accounting for all employee hours worked, time off requests, STD, leave of",
+        "[Summary] Diverse experience in Accounting, Credit Union Financial Services, Retail Sales, Customer Service, Telemarketing, Food & Beverage,"
+      ],
+      "reasoning": "Strong semantic match for 'Staff Accountant' in Accomplishments, Experience, Summary (headline: Hr Payroll/ Accounting Representative); covers 5/9 required skills (General Ledger, Reconciliation, Accounts Payable, Accounting, Excel); missing Financial Reporting, Accounts Receivable, Auditing, Tax; ~5.2 yrs experience (meets 3+ asked); Bachelor in Business Finance.",
+      "missing_skills": [
+        "Financial Reporting",
+        "Accounts Receivable",
+        "Auditing",
+        "Tax"
+      ],
+      "matched_sections": [
+        "accomplishments",
+        "experience",
+        "summary"
+      ],
+      "experience_years": 5.2,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.62,
+        "skills": 0.5,
+        "keyword": 0.463,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Mia Young",
+      "resume_path": "resumes/mia_young.pdf",
+      "match_score": 51,
+      "matched_skills": [
+        "Financial Reporting",
+        "Accounting",
+        "CPA"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Accounting Prepared financial statements.",
+        "[Summary] design, development and facilitation. Outstanding problem-solving skills, as proven through implementation of accounting software packages,",
+        "[Experience] Accounting Prepared financial statements."
+      ],
+      "reasoning": "Moderate semantic match for 'Staff Accountant' in Experience, Summary (headline: Accountant); covers 2/9 required skills (Financial Reporting, Accounting); missing General Ledger, Reconciliation, Accounts Payable, Accounts Receivable; ~12 yrs experience (meets 3+ asked); Master.",
+      "missing_skills": [
+        "General Ledger",
+        "Reconciliation",
+        "Accounts Payable",
+        "Accounts Receivable",
+        "Auditing",
+        "Tax",
+        "Excel"
+      ],
+      "matched_sections": [
+        "experience",
+        "summary"
+      ],
+      "experience_years": 12.0,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.552,
+        "skills": 0.292,
+        "keyword": 0.336,
+        "qualification": 1.0
+      }
+    }
+  ],
+  "filtered_out": [
+    {
+      "candidate_name": "Ravi Iyer",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Ruth Adler",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Aisha Bello",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Fatima Rahman",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Priya Patel",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Maria Garcia",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Kwame Mensah",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Yuki Tanaka",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Grace Kim",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Pavel Volkov",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Rosa Diaz",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Ana Pereira",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Chloe Dubois",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Zara Ali",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Ahmed Khan",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Olivia Evans",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Isabel Costa",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Daniel Miller",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    },
+    {
+      "candidate_name": "Mateo Lopez",
+      "reasons": [
+        "missing must-have skill Accounting"
+      ]
+    }
+  ],
+  "stats": {
+    "resumes_indexed": 50,
+    "candidates_considered": 31,
+    "passed_filters": 12,
+    "timings_ms": {
+      "embed_query": 22.4,
+      "faiss_search": 0.06,
+      "total": 58.9
+    }
+  }
+}

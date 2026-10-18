@@ -1,0 +1,538 @@
+{
+  "job_description": "Finance Manager (FP&A)\n\nWe need a Finance Manager to lead budgeting, forecasting and financial analysis for our business units.\n\nResponsibilities\n- Own the annual budgeting and monthly forecasting process\n- Perform variance analysis and financial modeling for leadership\n- Oversee month-end close, financial reporting and GAAP compliance\n- Manage treasury and cash flow planning\n- Partner with operations on cost reduction and process improvement\n\nRequirements\n- Must have: 5+ years of experience\n- Must have: Budgeting\n- Financial Analysis and forecasting expertise\n- Bachelor's degree in Finance or Accounting; MBA or CPA preferred\n- Strong Excel skills; ERP experience (SAP / Oracle) a plus\n- Leadership of a team of analysts",
+  "job_title": "Finance Manager (FP&A)",
+  "parsed_requirements": {
+    "required_skills": [
+      "Financial Analysis",
+      "Budgeting",
+      "Leadership",
+      "Financial Reporting",
+      "Compliance",
+      "Treasury",
+      "Process Improvement",
+      "Accounting",
+      "Excel"
+    ],
+    "preferred_skills": [
+      "CPA",
+      "SAP",
+      "Oracle"
+    ],
+    "must_haves": [
+      "5+ years experience",
+      "Budgeting"
+    ],
+    "min_years": 5.0,
+    "degree_level": 3
+  },
+  "mode": "hybrid",
+  "top_matches": [
+    {
+      "candidate_name": "Felix Weber",
+      "resume_path": "resumes/felix_weber.pdf",
+      "match_score": 86,
+      "matched_skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Financial Reporting",
+        "Treasury",
+        "Process Improvement",
+        "Accounting",
+        "Excel",
+        "CPA"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Manage forecasting, outlook, reporting and sales compensation process for Structured Product Services Group of Corporate Trust. Asset",
+        "[Experience] Managed team responsible for the weekly 90 day cash forecasting process during time of significant market/liquidity stress. Responsibilities",
+        "[Skills] Adjustments, Cash Forecasting, Maintenance, Benefits, Budgeting, Employee Benefits, Variance Analysis, Basis, Cpa, Excel, Process"
+      ],
+      "reasoning": "Strong semantic match for 'Finance Manager (FP&A)' in Experience, Skills (headline: Finance Manager); covers 7/9 required skills (Financial Analysis, Budgeting, Financial Reporting, Treasury, Process Improvement, Accounting); missing Leadership, Compliance; ~9.9 yrs experience (meets 5+ asked); Master in Finance & Strategic Management.",
+      "missing_skills": [
+        "Leadership",
+        "Compliance"
+      ],
+      "matched_sections": [
+        "experience",
+        "skills"
+      ],
+      "experience_years": 9.9,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.858,
+        "skills": 0.739,
+        "keyword": 1.0,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Omar Haddad",
+      "resume_path": "resumes/omar_haddad.pdf",
+      "match_score": 82,
+      "matched_skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Financial Reporting",
+        "Treasury",
+        "Process Improvement",
+        "Accounting",
+        "Excel",
+        "SAP"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Prepare monthly financial statements (Balance Sheet, P&L, Cash Flow) & variance analysis for the company.",
+        "[Experience] Coordinate and serve as primary contact with Company's external auditors, ensuring that accounting transactions are complete and accurate",
+        "[Experience] Validated and approved forecast rate assumptions provided by global procurement team."
+      ],
+      "reasoning": "Strong semantic match for 'Finance Manager (FP&A)' in Experience (headline: Senior Finance Manager); covers 7/9 required skills (Financial Analysis, Budgeting, Financial Reporting, Treasury, Process Improvement, Accounting); missing Leadership, Compliance; ~8.1 yrs experience (meets 5+ asked); Master.",
+      "missing_skills": [
+        "Leadership",
+        "Compliance"
+      ],
+      "matched_sections": [
+        "experience"
+      ],
+      "experience_years": 8.1,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.851,
+        "skills": 0.739,
+        "keyword": 0.717,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Samuel Turner",
+      "resume_path": "resumes/samuel_turner.pdf",
+      "match_score": 77,
+      "matched_skills": [
+        "Financial Analysis",
+        "Budgeting",
+        "Leadership",
+        "Financial Reporting",
+        "Compliance",
+        "Process Improvement",
+        "Accounting",
+        "CPA",
+        "Oracle"
+      ],
+      "relevant_excerpts": [
+        "[Profile] FINANCE MANAGER / PLANT CONTROLLER",
+        "[Experience] Ensure the internal control at the plant level is operating effectively and accounting department is in compliance with corporate initiatives and",
+        "[Experience] Strived continually to improve financial reporting, forecasting and budgeting process, and standardized work. Lead HVAC operation"
+      ],
+      "reasoning": "Strong semantic match for 'Finance Manager (FP&A)' in Experience (headline: Finance Manager / Plant Controller); covers 7/9 required skills (Financial Analysis, Budgeting, Leadership, Financial Reporting, Compliance, Process Improvement); missing Treasury, Excel; ~9.1 yrs experience (meets 5+ asked); Master in Accountancy.",
+      "missing_skills": [
+        "Treasury",
+        "Excel"
+      ],
+      "matched_sections": [
+        "profile",
+        "experience"
+      ],
+      "experience_years": 9.1,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.711,
+        "skills": 0.783,
+        "keyword": 0.879,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Sara Cohen",
+      "resume_path": "resumes/sara_cohen.pdf",
+      "match_score": 64,
+      "matched_skills": [
+        "Budgeting",
+        "Financial Reporting",
+        "Compliance",
+        "Treasury",
+        "Accounting",
+        "CPA"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Frequent interface with Legal, Human Resources, Financial Planning and Analysis and Treasury/Compliance.",
+        "[Experience] Management of fiscal duties, provision of complex staff assistance to esponsible for all SEC and external financial reporting for Calpine",
+        "[Profile] FINANCE DIRECTOR AND TREASURER"
+      ],
+      "reasoning": "Strong semantic match for 'Finance Manager (FP&A)' in Experience (headline: Finance Director And Treasurer); covers 5/9 required skills (Budgeting, Financial Reporting, Compliance, Treasury, Accounting); missing Financial Analysis, Leadership, Process Improvement, Excel; ~11.8 yrs experience (meets 5+ asked); Master in Business.",
+      "missing_skills": [
+        "Financial Analysis",
+        "Leadership",
+        "Process Improvement",
+        "Excel"
+      ],
+      "matched_sections": [
+        "experience",
+        "profile"
+      ],
+      "experience_years": 11.8,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.656,
+        "skills": 0.565,
+        "keyword": 0.422,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "James Smith",
+      "resume_path": "resumes/james_smith.pdf",
+      "match_score": 64,
+      "matched_skills": [
+        "Budgeting",
+        "Financial Reporting",
+        "Compliance",
+        "Accounting",
+        "Excel"
+      ],
+      "relevant_excerpts": [
+        "[Summary] Exceptional Payroll Administrator with a background in finance seeks to provide administrative, accounting and payroll support to an energetic",
+        "[Skills] TOMPRO/TOMFED/TOMON Financial Accounting Software for EDF projects and programs",
+        "[Experience] Maintain control cards and other financial and accounting records necessary for the management of EDF resources."
+      ],
+      "reasoning": "Strong semantic match for 'Finance Manager (FP&A)' in Summary, Skills, Experience (headline: Contracts And Finance Officer); covers 5/9 required skills (Budgeting, Financial Reporting, Compliance, Accounting, Excel); missing Financial Analysis, Leadership, Treasury, Process Improvement; ~7.6 yrs experience (meets 5+ asked); Master.",
+      "missing_skills": [
+        "Financial Analysis",
+        "Leadership",
+        "Treasury",
+        "Process Improvement"
+      ],
+      "matched_sections": [
+        "summary",
+        "skills",
+        "experience"
+      ],
+      "experience_years": 7.6,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.694,
+        "skills": 0.522,
+        "keyword": 0.303,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Andre Moore",
+      "resume_path": "resumes/andre_moore.pdf",
+      "match_score": 52,
+      "matched_skills": [
+        "Budgeting",
+        "Financial Reporting",
+        "Accounting",
+        "CPA",
+        "SAP"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Starbuck's was going through their manufacturing processes and creating a cost accounting system.",
+        "[Experience] My role in the accounting was",
+        "[Skills] closing, Strong communication skills, Cost Accounting, CPA, Creative Problem Solving, fast, financial, financial reporting, General ledger"
+      ],
+      "reasoning": "Moderate semantic match for 'Finance Manager (FP&A)' in Experience, Skills (headline: Accountant); covers 3/9 required skills (Budgeting, Financial Reporting, Accounting); missing Financial Analysis, Leadership, Compliance, Treasury; ~31.5 yrs experience (meets 5+ asked); Bachelor in Business Administration.",
+      "missing_skills": [
+        "Financial Analysis",
+        "Leadership",
+        "Compliance",
+        "Treasury",
+        "Process Improvement",
+        "Excel"
+      ],
+      "matched_sections": [
+        "experience",
+        "skills"
+      ],
+      "experience_years": 31.5,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.476,
+        "skills": 0.435,
+        "keyword": 0.466,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Kwame Mensah",
+      "resume_path": "resumes/kwame_mensah.pdf",
+      "match_score": 50,
+      "matched_skills": [
+        "Budgeting",
+        "Leadership",
+        "Excel",
+        "SAP"
+      ],
+      "relevant_excerpts": [
+        "[Experience] managing the budget for the project Strengthening Families (SF) Co-ordinator - Hutt Valley.",
+        "[Experience] managing the budget for the project - using SAP Guri",
+        "[Experience] managing the budget for the project Te Rito Co-ordinator:"
+      ],
+      "reasoning": "Moderate semantic match for 'Finance Manager (FP&A)' in Experience (headline: Project Coordinator); covers 3/9 required skills (Budgeting, Leadership, Excel); missing Financial Analysis, Financial Reporting, Compliance, Treasury; ~11 yrs experience (meets 5+ asked); Diploma/Certificate in Health & Human Development.",
+      "missing_skills": [
+        "Financial Analysis",
+        "Financial Reporting",
+        "Compliance",
+        "Treasury",
+        "Process Improvement",
+        "Accounting"
+      ],
+      "matched_sections": [
+        "experience"
+      ],
+      "experience_years": 11.0,
+      "education": "Diploma/Certificate",
+      "score_breakdown": {
+        "semantic": 0.532,
+        "skills": 0.391,
+        "keyword": 0.269,
+        "qualification": 0.85
+      }
+    },
+    {
+      "candidate_name": "Chloe Dubois",
+      "resume_path": "resumes/chloe_dubois.pdf",
+      "match_score": 45,
+      "matched_skills": [
+        "Budgeting",
+        "Leadership",
+        "Compliance",
+        "Excel",
+        "Oracle"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Develops, tracks and controls long-term information technology operating budgets and cost and benefit analyses for IT spending initiatives.",
+        "[Certifications] [Job Title] , [Company Name] - [Timeframe]",
+        "[Experience] Executed coordinated project leadership, efficient resource and budget utilization, schedule adherence, implementation of application"
+      ],
+      "reasoning": "Moderate semantic match for 'Finance Manager (FP&A)' in Experience, Certifications (headline: Director Of Information Technology); covers 4/9 required skills (Budgeting, Leadership, Compliance, Excel); missing Financial Analysis, Financial Reporting, Treasury, Process Improvement; ~22.3 yrs experience (meets 5+ asked); Master in Information Technology Management.",
+      "missing_skills": [
+        "Financial Analysis",
+        "Financial Reporting",
+        "Treasury",
+        "Process Improvement",
+        "Accounting"
+      ],
+      "matched_sections": [
+        "experience",
+        "certifications"
+      ],
+      "experience_years": 22.3,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.365,
+        "skills": 0.478,
+        "keyword": 0.333,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Aisha Bello",
+      "resume_path": "resumes/aisha_bello.pdf",
+      "match_score": 42,
+      "matched_skills": [
+        "Budgeting",
+        "Leadership",
+        "Excel"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Provided work estimates and ensured each project is efficiently staffed with testers to complete the project on time and on budget.",
+        "[Experience] Work Environment: Matrix team structure/Team Lead, Windows based, Quality Center used for test case and bug/incident reporting.",
+        "[Experience] testing on assigned projects Maintained the test lab ensured appropriate software and hardware were up to date"
+      ],
+      "reasoning": "Moderate semantic match for 'Finance Manager (FP&A)' in Experience (headline: Software Quality Assurance Analyst Ii); covers 3/9 required skills (Budgeting, Leadership, Excel); missing Financial Analysis, Financial Reporting, Compliance, Treasury; ~18.1 yrs experience (meets 5+ asked); Bachelor in Computer Information Systems.",
+      "missing_skills": [
+        "Financial Analysis",
+        "Financial Reporting",
+        "Compliance",
+        "Treasury",
+        "Process Improvement",
+        "Accounting"
+      ],
+      "matched_sections": [
+        "experience"
+      ],
+      "experience_years": 18.1,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.382,
+        "skills": 0.348,
+        "keyword": 0.204,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Daniel Miller",
+      "resume_path": "resumes/daniel_miller.pdf",
+      "match_score": 42,
+      "matched_skills": [
+        "Budgeting",
+        "Leadership",
+        "Excel"
+      ],
+      "relevant_excerpts": [
+        "[Experience] variety of program offerings available, and increase awareness of programs available to families.",
+        "[Experience] Work autonomously as a leader and interact successfully as a team member.",
+        "[Experience] Supervises site program (attendance, behavior management, curriculum, budget, student safety, etc.) for the purpose of ensuring success of"
+      ],
+      "reasoning": "Moderate semantic match for 'Finance Manager (FP&A)' in Experience (headline: Teacher); covers 3/9 required skills (Budgeting, Leadership, Excel); missing Financial Analysis, Financial Reporting, Compliance, Treasury; ~12.6 yrs experience (meets 5+ asked); Master.",
+      "missing_skills": [
+        "Financial Analysis",
+        "Financial Reporting",
+        "Compliance",
+        "Treasury",
+        "Process Improvement",
+        "Accounting"
+      ],
+      "matched_sections": [
+        "experience"
+      ],
+      "experience_years": 12.6,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.394,
+        "skills": 0.348,
+        "keyword": 0.127,
+        "qualification": 1.0
+      }
+    }
+  ],
+  "filtered_out": [
+    {
+      "candidate_name": "Mia Young",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Fatima Rahman",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Maria Garcia",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Amara Okafor",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Elena Popescu",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Yuki Tanaka",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Priya Patel",
+      "reasons": [
+        "3 yrs experience < 5 required",
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Zara Ali",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Grace Kim",
+      "reasons": [
+        "3.1 yrs experience < 5 required"
+      ]
+    },
+    {
+      "candidate_name": "Ruth Adler",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Ahmed Khan",
+      "reasons": [
+        "0.9 yrs experience < 5 required",
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Ethan Clark",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Isabel Costa",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Rosa Diaz",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Olivia Evans",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Ravi Iyer",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Victor Novak",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Arjun Mehta",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Kenji Sato",
+      "reasons": [
+        "3.2 yrs experience < 5 required",
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Maya Shah",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    },
+    {
+      "candidate_name": "Lina Saleh",
+      "reasons": [
+        "missing must-have skill Budgeting"
+      ]
+    }
+  ],
+  "stats": {
+    "resumes_indexed": 50,
+    "candidates_considered": 37,
+    "passed_filters": 16,
+    "timings_ms": {
+      "embed_query": 45.8,
+      "faiss_search": 4.83,
+      "total": 94.0
+    }
+  }
+}

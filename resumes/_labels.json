@@ -1,0 +1,252 @@
+{
+  "leila_nasser.pdf": {
+    "name": "Leila Nasser",
+    "category": "INFORMATION-TECHNOLOGY",
+    "source": "data/data/INFORMATION-TECHNOLOGY/26768723.pdf"
+  },
+  "chloe_dubois.pdf": {
+    "name": "Chloe Dubois",
+    "category": "INFORMATION-TECHNOLOGY",
+    "source": "data/data/INFORMATION-TECHNOLOGY/13405733.pdf"
+  },
+  "zara_ali.pdf": {
+    "name": "Zara Ali",
+    "category": "INFORMATION-TECHNOLOGY",
+    "source": "data/data/INFORMATION-TECHNOLOGY/91697974.pdf"
+  },
+  "hannah_fischer.pdf": {
+    "name": "Hannah Fischer",
+    "category": "INFORMATION-TECHNOLOGY",
+    "source": "data/data/INFORMATION-TECHNOLOGY/21283365.pdf"
+  },
+  "chen_wang.pdf": {
+    "name": "Chen Wang",
+    "category": "INFORMATION-TECHNOLOGY",
+    "source": "data/data/INFORMATION-TECHNOLOGY/12045067.pdf"
+  },
+  "lina_saleh.pdf": {
+    "name": "Lina Saleh",
+    "category": "ENGINEERING",
+    "source": "data/data/ENGINEERING/30097175.pdf"
+  },
+  "kenji_sato.pdf": {
+    "name": "Kenji Sato",
+    "category": "ENGINEERING",
+    "source": "data/data/ENGINEERING/20981299.pdf"
+  },
+  "emma_brown.pdf": {
+    "name": "Emma Brown",
+    "category": "ENGINEERING",
+    "source": "data/data/ENGINEERING/62071407.pdf"
+  },
+  "nadia_hassan.pdf": {
+    "name": "Nadia Hassan",
+    "category": "ENGINEERING",
+    "source": "data/data/ENGINEERING/35172961.pdf"
+  },
+  "noah_wilson.pdf": {
+    "name": "Noah Wilson",
+    "category": "ENGINEERING",
+    "source": "data/data/ENGINEERING/33685075.pdf"
+  },
+  "isabel_costa.pdf": {
+    "name": "Isabel Costa",
+    "category": "HR",
+    "source": "data/data/HR/21830565.pdf"
+  },
+  "amara_okafor.pdf": {
+    "name": "Amara Okafor",
+    "category": "HR",
+    "source": "data/data/HR/28808263.pdf"
+  },
+  "ravi_iyer.pdf": {
+    "name": "Ravi Iyer",
+    "category": "HR",
+    "source": "data/data/HR/17422560.pdf"
+  },
+  "priya_patel.pdf": {
+    "name": "Priya Patel",
+    "category": "HR",
+    "source": "data/data/HR/39081840.pdf"
+  },
+  "rosa_diaz.pdf": {
+    "name": "Rosa Diaz",
+    "category": "HR",
+    "source": "data/data/HR/13376919.pdf"
+  },
+  "felix_weber.pdf": {
+    "name": "Felix Weber",
+    "category": "FINANCE",
+    "source": "data/data/FINANCE/12858898.pdf"
+  },
+  "omar_haddad.pdf": {
+    "name": "Omar Haddad",
+    "category": "FINANCE",
+    "source": "data/data/FINANCE/38907798.pdf"
+  },
+  "samuel_turner.pdf": {
+    "name": "Samuel Turner",
+    "category": "FINANCE",
+    "source": "data/data/FINANCE/19540089.pdf"
+  },
+  "sara_cohen.pdf": {
+    "name": "Sara Cohen",
+    "category": "FINANCE",
+    "source": "data/data/FINANCE/69487178.pdf"
+  },
+  "james_smith.pdf": {
+    "name": "James Smith",
+    "category": "FINANCE",
+    "source": "data/data/FINANCE/21912637.pdf"
+  },
+  "ines_ferreira.pdf": {
+    "name": "Ines Ferreira",
+    "category": "ACCOUNTANT",
+    "source": "data/data/ACCOUNTANT/13072019.pdf"
+  },
+  "ethan_clark.pdf": {
+    "name": "Ethan Clark",
+    "category": "ACCOUNTANT",
+    "source": "data/data/ACCOUNTANT/62809577.pdf"
+  },
+  "mia_young.pdf": {
+    "name": "Mia Young",
+    "category": "ACCOUNTANT",
+    "source": "data/data/ACCOUNTANT/17407184.pdf"
+  },
+  "andre_moore.pdf": {
+    "name": "Andre Moore",
+    "category": "ACCOUNTANT",
+    "source": "data/data/ACCOUNTANT/63137898.pdf"
+  },
+  "elena_popescu.pdf": {
+    "name": "Elena Popescu",
+    "category": "ACCOUNTANT",
+    "source": "data/data/ACCOUNTANT/13294301.pdf"
+  },
+  "arjun_mehta.pdf": {
+    "name": "Arjun Mehta",
+    "category": "SALES",
+    "source": "data/data/SALES/23032182.pdf"
+  },
+  "diego_torres.pdf": {
+    "name": "Diego Torres",
+    "category": "SALES",
+    "source": "data/data/SALES/18885231.pdf"
+  },
+  "leo_moreau.pdf": {
+    "name": "Leo Moreau",
+    "category": "SALES",
+    "source": "data/data/SALES/26530696.pdf"
+  },
+  "ivan_petrov.pdf": {
+    "name": "Ivan Petrov",
+    "category": "SALES",
+    "source": "data/data/SALES/32140087.pdf"
+  },
+  "marco_bianchi.pdf": {
+    "name": "Marco Bianchi",
+    "category": "SALES",
+    "source": "data/data/SALES/69155584.pdf"
+  },
+  "pavel_volkov.pdf": {
+    "name": "Pavel Volkov",
+    "category": "DESIGNER",
+    "source": "data/data/DESIGNER/24455357.pdf"
+  },
+  "hugo_martin.pdf": {
+    "name": "Hugo Martin",
+    "category": "DESIGNER",
+    "source": "data/data/DESIGNER/15425154.pdf"
+  },
+  "tariq_aziz.pdf": {
+    "name": "Tariq Aziz",
+    "category": "DESIGNER",
+    "source": "data/data/DESIGNER/24583187.pdf"
+  },
+  "jonah_reed.pdf": {
+    "name": "Jonah Reed",
+    "category": "DESIGNER",
+    "source": "data/data/DESIGNER/24285142.pdf"
+  },
+  "grace_kim.pdf": {
+    "name": "Grace Kim",
+    "category": "DESIGNER",
+    "source": "data/data/DESIGNER/18198627.pdf"
+  },
+  "maya_shah.pdf": {
+    "name": "Maya Shah",
+    "category": "HEALTHCARE",
+    "source": "data/data/HEALTHCARE/36868767.pdf"
+  },
+  "ruth_adler.pdf": {
+    "name": "Ruth Adler",
+    "category": "HEALTHCARE",
+    "source": "data/data/HEALTHCARE/18484846.pdf"
+  },
+  "ahmed_khan.pdf": {
+    "name": "Ahmed Khan",
+    "category": "HEALTHCARE",
+    "source": "data/data/HEALTHCARE/41910253.pdf"
+  },
+  "olivia_evans.pdf": {
+    "name": "Olivia Evans",
+    "category": "HEALTHCARE",
+    "source": "data/data/HEALTHCARE/37374340.pdf"
+  },
+  "ana_pereira.pdf": {
+    "name": "Ana Pereira",
+    "category": "HEALTHCARE",
+    "source": "data/data/HEALTHCARE/35579812.pdf"
+  },
+  "sofia_rossi.pdf": {
+    "name": "Sofia Rossi",
+    "category": "TEACHER",
+    "source": "data/data/TEACHER/13296856.pdf"
+  },
+  "victor_novak.pdf": {
+    "name": "Victor Novak",
+    "category": "TEACHER",
+    "source": "data/data/TEACHER/38750659.pdf"
+  },
+  "daniel_miller.pdf": {
+    "name": "Daniel Miller",
+    "category": "TEACHER",
+    "source": "data/data/TEACHER/49285644.pdf"
+  },
+  "lucas_silva.pdf": {
+    "name": "Lucas Silva",
+    "category": "TEACHER",
+    "source": "data/data/TEACHER/18001081.pdf"
+  },
+  "mateo_lopez.pdf": {
+    "name": "Mateo Lopez",
+    "category": "TEACHER",
+    "source": "data/data/TEACHER/34033933.pdf"
+  },
+  "fatima_rahman.pdf": {
+    "name": "Fatima Rahman",
+    "category": "BANKING",
+    "source": "data/data/BANKING/43375498.pdf"
+  },
+  "yuki_tanaka.pdf": {
+    "name": "Yuki Tanaka",
+    "category": "BANKING",
+    "source": "data/data/BANKING/18645964.pdf"
+  },
+  "maria_garcia.pdf": {
+    "name": "Maria Garcia",
+    "category": "BANKING",
+    "source": "data/data/BANKING/17189156.pdf"
+  },
+  "aisha_bello.pdf": {
+    "name": "Aisha Bello",
+    "category": "BANKING",
+    "source": "data/data/BANKING/27606527.pdf"
+  },
+  "kwame_mensah.pdf": {
+    "name": "Kwame Mensah",
+    "category": "BANKING",
+    "source": "data/data/BANKING/23323001.pdf"
+  }
+}

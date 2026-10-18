@@ -1,0 +1,12 @@
+faiss-cpu>=1.8
+sentence-transformers>=3.0
+numpy
+pandas
+pypdf>=4.0
+python-docx
+rank-bm25
+requests
+matplotlib
+jupyter
+nbconvert
+ipykernel

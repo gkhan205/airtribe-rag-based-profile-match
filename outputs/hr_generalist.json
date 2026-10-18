@@ -1,0 +1,469 @@
+{
+  "job_description": "HR Generalist / HR Manager\n\nWe are hiring an HR Generalist to manage the full employee lifecycle for a growing company.\n\nResponsibilities\n- Own recruiting: job postings, screening, interviewing and offers\n- Run onboarding and new hire orientation\n- Handle employee relations, investigations and conflict resolution\n- Administer benefits, FMLA, 401k and payroll coordination\n- Maintain HRIS records and drive performance management cycles\n- Ensure compliance with labor law, EEO and FLSA\n\nRequirements\n- Must have: Recruiting and Employee Relations experience\n- 3+ years of HR experience\n- Bachelor's degree in Human Resources or Business\n- HRIS experience (Workday, ADP, Kronos) preferred",
+  "job_title": "HR Generalist / HR Manager",
+  "parsed_requirements": {
+    "required_skills": [
+      "Recruiting",
+      "Onboarding",
+      "Employee Relations",
+      "Payroll",
+      "Benefits Administration",
+      "HRIS",
+      "Performance Management",
+      "Compliance",
+      "Labor Law"
+    ],
+    "preferred_skills": [],
+    "must_haves": [
+      "Recruiting",
+      "Employee Relations"
+    ],
+    "min_years": 3.0,
+    "degree_level": 3
+  },
+  "mode": "hybrid",
+  "top_matches": [
+    {
+      "candidate_name": "Priya Patel",
+      "resume_path": "resumes/priya_patel.pdf",
+      "match_score": 100,
+      "matched_skills": [
+        "Recruiting",
+        "Onboarding",
+        "Employee Relations",
+        "Payroll",
+        "Benefits Administration",
+        "HRIS",
+        "Performance Management",
+        "Compliance",
+        "Labor Law"
+      ],
+      "relevant_excerpts": [
+        "[Summary] Payroll \u2022 Benefits Administration \u2022 Employment Law \u2022 FMLA/ADA/EEO/WC \u2022 HR Policies",
+        "[Experience] Advance in administering employer website for Halogen, Fidelity (payroll and 401k), Kelly,",
+        "[Experience] Process bi-weekly benefits deduction for payroll on time in Fidelity payroll system and answered employee's questions regarding timesheet,"
+      ],
+      "reasoning": "Strong semantic match for 'HR Generalist / HR Manager' in Summary, Experience (headline: Hr Coordinator); covers 9/9 required skills (Recruiting, Onboarding, Employee Relations, Payroll, Benefits Administration, HRIS); ~3 yrs experience (meets 3+ asked); Bachelor in Management.",
+      "missing_skills": [],
+      "matched_sections": [
+        "summary",
+        "experience"
+      ],
+      "experience_years": 3.0,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 1.0,
+        "skills": 1.0,
+        "keyword": 1.0,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Isabel Costa",
+      "resume_path": "resumes/isabel_costa.pdf",
+      "match_score": 81,
+      "matched_skills": [
+        "Recruiting",
+        "Onboarding",
+        "Employee Relations",
+        "Payroll",
+        "Benefits Administration",
+        "Performance Management",
+        "Compliance",
+        "Labor Law"
+      ],
+      "relevant_excerpts": [
+        "[Experience] consistency and compliance. Provided coaching and counsel in the areas of employee relations, performance management and corrective",
+        "[Experience] [Number] applicants per [Time period].Increased the employee base by [Number]% to meet changing staffing needs.Implemented an",
+        "[Experience] strategies that would positively influence workplace relationships.Conducted an average of [Number] employee exit interviews per"
+      ],
+      "reasoning": "Strong semantic match for 'HR Generalist / HR Manager' in Experience (headline: Hr Consultant); covers 8/9 required skills (Recruiting, Onboarding, Employee Relations, Payroll, Benefits Administration, Performance Management); missing HRIS; ~12.7 yrs experience (meets 3+ asked); Bachelor in Pharmacology.",
+      "missing_skills": [
+        "HRIS"
+      ],
+      "matched_sections": [
+        "experience"
+      ],
+      "experience_years": 12.7,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.742,
+        "skills": 0.909,
+        "keyword": 0.739,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Ravi Iyer",
+      "resume_path": "resumes/ravi_iyer.pdf",
+      "match_score": 68,
+      "matched_skills": [
+        "Recruiting",
+        "Onboarding",
+        "Employee Relations",
+        "Payroll",
+        "Benefits Administration",
+        "Compliance",
+        "Labor Law"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Managed communication regarding employee orientation and open enrollment for benefits.",
+        "[Experience] and manage PTO balances Full On boarding function and recruiting duties Maintain OSHA logs and file workers compensation claims",
+        "[Summary] To obtain a challenging career in the human resource field where I can utilize my capabilities and experiences to achieve goals as well as my"
+      ],
+      "reasoning": "Strong semantic match for 'HR Generalist / HR Manager' in Experience, Summary (headline: Hr Coordinator); covers 7/9 required skills (Recruiting, Onboarding, Employee Relations, Payroll, Benefits Administration, Compliance); missing HRIS, Performance Management; ~10.2 yrs experience (meets 3+ asked).",
+      "missing_skills": [
+        "HRIS",
+        "Performance Management"
+      ],
+      "matched_sections": [
+        "experience",
+        "summary"
+      ],
+      "experience_years": 10.2,
+      "education": null,
+      "score_breakdown": {
+        "semantic": 0.616,
+        "skills": 0.818,
+        "keyword": 0.638,
+        "qualification": 0.775
+      }
+    },
+    {
+      "candidate_name": "Rosa Diaz",
+      "resume_path": "resumes/rosa_diaz.pdf",
+      "match_score": 67,
+      "matched_skills": [
+        "Recruiting",
+        "Onboarding",
+        "Employee Relations",
+        "HRIS",
+        "Performance Management"
+      ],
+      "relevant_excerpts": [
+        "[Summary] Competent HR Generalist and seasoned recruiter with an extensive background in HR Operations functions across large corporates. Through my",
+        "[Experience] Provided full range of generalist services, employee retention, employee engagement, performance management and corporate social",
+        "[Experience] and all applicable documentations Awarded for best turn-around time in recruitment achieved by employing new procedures that"
+      ],
+      "reasoning": "Strong semantic match for 'HR Generalist / HR Manager' in Summary, Experience (headline: Regional Hr Deputy Manager); covers 5/9 required skills (Recruiting, Onboarding, Employee Relations, HRIS, Performance Management); missing Payroll, Benefits Administration, Compliance, Labor Law; ~6.9 yrs experience (meets 3+ asked); Master in Human Resources.",
+      "missing_skills": [
+        "Payroll",
+        "Benefits Administration",
+        "Compliance",
+        "Labor Law"
+      ],
+      "matched_sections": [
+        "summary",
+        "experience"
+      ],
+      "experience_years": 6.9,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.623,
+        "skills": 0.636,
+        "keyword": 0.648,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Chloe Dubois",
+      "resume_path": "resumes/chloe_dubois.pdf",
+      "match_score": 36,
+      "matched_skills": [
+        "Recruiting",
+        "Employee Relations",
+        "Compliance"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Develops, tracks and controls long-term information technology operating budgets and cost and benefit analyses for IT spending initiatives.",
+        "[Certifications] [Job Title] , [Company Name] - [Timeframe]",
+        "[Summary] Dynamic Information Technology Manager with 13 years of IT leadership experience including oversight of infrastructure, application support and"
+      ],
+      "reasoning": "Weak semantic match for 'HR Generalist / HR Manager' in Experience, Certifications, Summary (headline: Director Of Information Technology); covers 3/9 required skills (Recruiting, Employee Relations, Compliance); missing Onboarding, Payroll, Benefits Administration, HRIS; ~22.3 yrs experience (meets 3+ asked); Master in Information Technology Management.",
+      "missing_skills": [
+        "Onboarding",
+        "Payroll",
+        "Benefits Administration",
+        "HRIS",
+        "Performance Management",
+        "Labor Law"
+      ],
+      "matched_sections": [
+        "experience",
+        "certifications",
+        "summary"
+      ],
+      "experience_years": 22.3,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.243,
+        "skills": 0.455,
+        "keyword": 0.162,
+        "qualification": 1.0
+      }
+    }
+  ],
+  "filtered_out": [
+    {
+      "candidate_name": "Victor Novak",
+      "reasons": [
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Amara Okafor",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Ruth Adler",
+      "reasons": [
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Zara Ali",
+      "reasons": [
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Olivia Evans",
+      "reasons": [
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Mia Young",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Fatima Rahman",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Grace Kim",
+      "reasons": [
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Yuki Tanaka",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Maya Shah",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "James Smith",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Ethan Clark",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Elena Popescu",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Daniel Miller",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Ahmed Khan",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Maria Garcia",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Sara Cohen",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Felix Weber",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Omar Haddad",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Ana Pereira",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Arjun Mehta",
+      "reasons": [
+        "missing must-have skill Recruiting"
+      ]
+    },
+    {
+      "candidate_name": "Marco Bianchi",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Kwame Mensah",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Aisha Bello",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Diego Torres",
+      "reasons": [
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Samuel Turner",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Chen Wang",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Ines Ferreira",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Leo Moreau",
+      "reasons": [
+        "missing must-have skill Recruiting"
+      ]
+    },
+    {
+      "candidate_name": "Sofia Rossi",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Noah Wilson",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Pavel Volkov",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Ivan Petrov",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Hannah Fischer",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Hugo Martin",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Tariq Aziz",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    },
+    {
+      "candidate_name": "Jonah Reed",
+      "reasons": [
+        "missing must-have skill Recruiting",
+        "missing must-have skill Employee Relations"
+      ]
+    }
+  ],
+  "stats": {
+    "resumes_indexed": 50,
+    "candidates_considered": 42,
+    "passed_filters": 5,
+    "timings_ms": {
+      "embed_query": 21.6,
+      "faiss_search": 0.07,
+      "total": 44.0
+    }
+  }
+}

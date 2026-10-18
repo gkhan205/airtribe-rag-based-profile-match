@@ -1,0 +1,521 @@
+{
+  "job_description": "Sales Representative\n\nWe are looking for an energetic Sales Representative for our retail and B2B channels.\n\nResponsibilities\n- Drive sales and hit monthly revenue targets\n- Prospecting and lead generation for new business development\n- Deliver excellent customer service and build long-term client relationships\n- Negotiate pricing and close deals\n- Track pipeline in CRM / Salesforce\n- Support merchandising, point of sale and inventory\n\nRequirements\n- Must have: Sales and Customer Service experience\n- 2+ years of sales experience\n- High school diploma required; Bachelor's degree preferred",
+  "job_title": "Sales Representative",
+  "parsed_requirements": {
+    "required_skills": [
+      "Sales",
+      "Retail",
+      "Business Development",
+      "Account Management",
+      "Customer Service",
+      "Salesforce",
+      "CRM",
+      "Inventory Management"
+    ],
+    "preferred_skills": [],
+    "must_haves": [
+      "Sales",
+      "Customer Service"
+    ],
+    "min_years": 2.0,
+    "degree_level": null
+  },
+  "mode": "hybrid",
+  "top_matches": [
+    {
+      "candidate_name": "Leo Moreau",
+      "resume_path": "resumes/leo_moreau.pdf",
+      "match_score": 73,
+      "matched_skills": [
+        "Sales",
+        "Retail",
+        "Account Management",
+        "Customer Service"
+      ],
+      "relevant_excerpts": [
+        "[Summary] track record in demanding sales and account management environments.Dedicated Customer Service Representative motivated to maintain",
+        "[Experience] calls/internet inquiries daily), busy retail customer service desks and five-star resorts.",
+        "[Skills] relationship building, retail, Selling, Sales Support, SQL, SUPERVISOR, technical support, User Support, telephone, trainer, Troubleshooting,"
+      ],
+      "reasoning": "Strong semantic match for 'Sales Representative' in Summary, Experience, Skills (headline: D2B Sales); covers 4/8 required skills (Sales, Retail, Account Management, Customer Service); missing Business Development, Salesforce, CRM, Inventory Management; ~12.8 yrs experience (meets 2+ asked); Associate in CIENCE DEGREE.",
+      "missing_skills": [
+        "Business Development",
+        "Salesforce",
+        "CRM",
+        "Inventory Management"
+      ],
+      "matched_sections": [
+        "summary",
+        "experience",
+        "skills"
+      ],
+      "experience_years": 12.8,
+      "education": "Associate",
+      "score_breakdown": {
+        "semantic": 0.694,
+        "skills": 0.6,
+        "keyword": 1.0,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Amara Okafor",
+      "resume_path": "resumes/amara_okafor.pdf",
+      "match_score": 71,
+      "matched_skills": [
+        "Sales",
+        "Retail",
+        "Customer Service",
+        "Inventory Management"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Respond to customer inquiries and provide excellent customer service.",
+        "[Summary] Diverse experience in Accounting, Credit Union Financial Services, Retail Sales, Customer Service, Telemarketing, Food & Beverage,",
+        "[Experience] Provide professional and prompt financial services to all members and potential members in a sales and service culture,"
+      ],
+      "reasoning": "Strong semantic match for 'Sales Representative' in Experience, Summary (headline: Hr Payroll/ Accounting Representative); covers 4/8 required skills (Sales, Retail, Customer Service, Inventory Management); missing Business Development, Account Management, Salesforce, CRM; ~5.2 yrs experience (meets 2+ asked); Bachelor in Business Finance.",
+      "missing_skills": [
+        "Business Development",
+        "Account Management",
+        "Salesforce",
+        "CRM"
+      ],
+      "matched_sections": [
+        "experience",
+        "summary"
+      ],
+      "experience_years": 5.2,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.715,
+        "skills": 0.6,
+        "keyword": 0.664,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Fatima Rahman",
+      "resume_path": "resumes/fatima_rahman.pdf",
+      "match_score": 67,
+      "matched_skills": [
+        "Sales",
+        "Account Management",
+        "Customer Service",
+        "Inventory Management"
+      ],
+      "relevant_excerpts": [
+        "[Summary] initiatives. Talented Sales Associate with successful career history of closing sales, increasing customer satisfaction and mentoring junior sales",
+        "[Experience] Front Desk/ Fitness Advisor/ General Manager/ Operations Manager/ Regional Sales Manager",
+        "[Experience] This was a Sales position in which we contacted customers with new accounts to ensure they are welcomed to the family, as well as to fulfill"
+      ],
+      "reasoning": "Strong semantic match for 'Sales Representative' in Summary, Experience (headline: Customer Service Rep 1 Lead Quality Assurance Coach Account Relationship Special); covers 4/8 required skills (Sales, Account Management, Customer Service, Inventory Management); missing Retail, Business Development, Salesforce, CRM; ~11.1 yrs experience (meets 2+ asked); Diploma/Certificate in Professional Sales.",
+      "missing_skills": [
+        "Retail",
+        "Business Development",
+        "Salesforce",
+        "CRM"
+      ],
+      "matched_sections": [
+        "summary",
+        "experience"
+      ],
+      "experience_years": 11.1,
+      "education": "Diploma/Certificate",
+      "score_breakdown": {
+        "semantic": 0.613,
+        "skills": 0.6,
+        "keyword": 0.812,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Marco Bianchi",
+      "resume_path": "resumes/marco_bianchi.pdf",
+      "match_score": 65,
+      "matched_skills": [
+        "Sales",
+        "Customer Service"
+      ],
+      "relevant_excerpts": [
+        "[Summary] Motivated strategic sales professional with three years of experience. Focused, driven and detail oriented with great communication skills. Works",
+        "[Skills] Retains Information with ease",
+        "[Experience] Generated top sales ($2000+ per evening) by marketing nightly specials during high volume days (Fridays, Saturdays and Sundays)"
+      ],
+      "reasoning": "Strong semantic match for 'Sales Representative' in Summary, Skills, Experience (headline: Sales Associate); covers 2/8 required skills (Sales, Customer Service); missing Retail, Business Development, Account Management, Salesforce; ~5.6 yrs experience (meets 2+ asked); Diploma/Certificate.",
+      "missing_skills": [
+        "Retail",
+        "Business Development",
+        "Account Management",
+        "Salesforce",
+        "CRM",
+        "Inventory Management"
+      ],
+      "matched_sections": [
+        "summary",
+        "skills",
+        "experience"
+      ],
+      "experience_years": 5.6,
+      "education": "Diploma/Certificate",
+      "score_breakdown": {
+        "semantic": 0.717,
+        "skills": 0.4,
+        "keyword": 0.583,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Arjun Mehta",
+      "resume_path": "resumes/arjun_mehta.pdf",
+      "match_score": 64,
+      "matched_skills": [
+        "Sales",
+        "Retail",
+        "Business Development",
+        "Customer Service",
+        "Inventory Management"
+      ],
+      "relevant_excerpts": [
+        "[Summary] Motivated customer service specialist with over 4 years of work experience in a fast-paced, team-based environment, including more than 10",
+        "[Experience] Maintained positive customer relations in a sales environment by;",
+        "[Experience] Performed all duties related to retail sales including;"
+      ],
+      "reasoning": "Moderate semantic match for 'Sales Representative' in Summary, Experience (headline: Sales Associate); covers 5/8 required skills (Sales, Retail, Business Development, Customer Service, Inventory Management); missing Account Management, Salesforce, CRM; ~10 yrs experience (meets 2+ asked); Bachelor in BUSINESS MARKETING Business.",
+      "missing_skills": [
+        "Account Management",
+        "Salesforce",
+        "CRM"
+      ],
+      "matched_sections": [
+        "summary",
+        "experience"
+      ],
+      "experience_years": 10,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.567,
+        "skills": 0.7,
+        "keyword": 0.513,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Grace Kim",
+      "resume_path": "resumes/grace_kim.pdf",
+      "match_score": 64,
+      "matched_skills": [
+        "Sales",
+        "Customer Service",
+        "Inventory Management"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Direct sales floor activities ensuring excellence in customer service and resolving store level problems.",
+        "[Experience] Manage merchandise selection window displays and stocking working directly with vendors.",
+        "[Experience] Assisted manager in placing purchase orders and managing inventory."
+      ],
+      "reasoning": "Strong semantic match for 'Sales Representative' in Experience (headline: 3D Designer/ Graphic Designer); covers 3/8 required skills (Sales, Customer Service, Inventory Management); missing Retail, Business Development, Account Management, Salesforce; ~3.1 yrs experience (meets 2+ asked); Bachelor in Arts.",
+      "missing_skills": [
+        "Retail",
+        "Business Development",
+        "Account Management",
+        "Salesforce",
+        "CRM"
+      ],
+      "matched_sections": [
+        "experience"
+      ],
+      "experience_years": 3.1,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.63,
+        "skills": 0.5,
+        "keyword": 0.636,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Maria Garcia",
+      "resume_path": "resumes/maria_garcia.pdf",
+      "match_score": 63,
+      "matched_skills": [
+        "Sales",
+        "Retail",
+        "Customer Service"
+      ],
+      "relevant_excerpts": [
+        "[Summary] Banking Branch Manager 2. Prior experience in a role as a business advocate Basic knowledge and understanding of retail and/or small business",
+        "[Experience] Responsible for satisfying all customer service needs and to assist them with succeeding financially through quality retail product sales and",
+        "[Experience] Business hubs every other Thursday with my business partners and fellow team members as part of my Business Advocate role."
+      ],
+      "reasoning": "Strong semantic match for 'Sales Representative' in Summary, Experience (headline: Business Banking Specialist); covers 3/8 required skills (Sales, Retail, Customer Service); missing Business Development, Account Management, Salesforce, CRM; ~6 yrs experience (meets 2+ asked); Diploma/Certificate in Math.",
+      "missing_skills": [
+        "Business Development",
+        "Account Management",
+        "Salesforce",
+        "CRM",
+        "Inventory Management"
+      ],
+      "matched_sections": [
+        "summary",
+        "experience"
+      ],
+      "experience_years": 6,
+      "education": "Diploma/Certificate",
+      "score_breakdown": {
+        "semantic": 0.611,
+        "skills": 0.5,
+        "keyword": 0.7,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Daniel Miller",
+      "resume_path": "resumes/daniel_miller.pdf",
+      "match_score": 59,
+      "matched_skills": [
+        "Sales",
+        "Retail",
+        "Customer Service"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Provided optimum sales and customer service, maintained and enhanced existing business.",
+        "[Experience] Distributed retail orders according to customer specific vendor guide requirements, policies and procedures.",
+        "[Summary] Accomplished, experienced, well educated business minded career seeker who takes great pride in establishing strong and lasting relationships"
+      ],
+      "reasoning": "Moderate semantic match for 'Sales Representative' in Experience, Summary (headline: Teacher); covers 3/8 required skills (Sales, Retail, Customer Service); missing Business Development, Account Management, Salesforce, CRM; ~12.6 yrs experience (meets 2+ asked); Master.",
+      "missing_skills": [
+        "Business Development",
+        "Account Management",
+        "Salesforce",
+        "CRM",
+        "Inventory Management"
+      ],
+      "matched_sections": [
+        "experience",
+        "summary"
+      ],
+      "experience_years": 12.6,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.52,
+        "skills": 0.5,
+        "keyword": 0.788,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Mateo Lopez",
+      "resume_path": "resumes/mateo_lopez.pdf",
+      "match_score": 56,
+      "matched_skills": [
+        "Sales",
+        "Retail",
+        "Customer Service",
+        "Inventory Management"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Gathered excellent insight into exceptional customer service practices.",
+        "[Skills] working in customer service for over 4 year",
+        "[Summary] HEALTH ADMINISTRATION HOSPITAL OPERATIONS PUBLIC SERVICE major. An intelligent, enthusiastic young professional with a"
+      ],
+      "reasoning": "Moderate semantic match for 'Sales Representative' in Experience, Skills, Summary (headline: Substitute Teacher); covers 4/8 required skills (Sales, Retail, Customer Service, Inventory Management); missing Business Development, Account Management, Salesforce, CRM; ~2.9 yrs experience (meets 2+ asked); Bachelor in Healthcare Administration.",
+      "missing_skills": [
+        "Business Development",
+        "Account Management",
+        "Salesforce",
+        "CRM"
+      ],
+      "matched_sections": [
+        "experience",
+        "skills",
+        "summary"
+      ],
+      "experience_years": 2.9,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.427,
+        "skills": 0.6,
+        "keyword": 0.73,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Chloe Dubois",
+      "resume_path": "resumes/chloe_dubois.pdf",
+      "match_score": 55,
+      "matched_skills": [
+        "Sales",
+        "Customer Service",
+        "Salesforce",
+        "CRM"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Recorded and integrated CRM data in Salesforce from previous Access and Excel databases, streamlining analysis procedures for",
+        "[Experience] Launched Salesforce data cleansing, migration, and integration programs to aid in gathering functional and business requirements to support",
+        "[Certifications] [Job Title] , [Company Name] - [Timeframe]"
+      ],
+      "reasoning": "Moderate semantic match for 'Sales Representative' in Experience, Certifications (headline: Director Of Information Technology); covers 4/8 required skills (Sales, Customer Service, Salesforce, CRM); missing Retail, Business Development, Account Management, Inventory Management; ~22.3 yrs experience (meets 2+ asked); Master in Information Technology Management.",
+      "missing_skills": [
+        "Retail",
+        "Business Development",
+        "Account Management",
+        "Inventory Management"
+      ],
+      "matched_sections": [
+        "experience",
+        "certifications"
+      ],
+      "experience_years": 22.3,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.441,
+        "skills": 0.6,
+        "keyword": 0.595,
+        "qualification": 1.0
+      }
+    }
+  ],
+  "filtered_out": [
+    {
+      "candidate_name": "Ruth Adler",
+      "reasons": [
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Hugo Martin",
+      "reasons": [
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Felix Weber",
+      "reasons": [
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Samuel Turner",
+      "reasons": [
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Ahmed Khan",
+      "reasons": [
+        "missing must-have skill Sales",
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Hannah Fischer",
+      "reasons": [
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Maya Shah",
+      "reasons": [
+        "missing must-have skill Sales",
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Andre Moore",
+      "reasons": [
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Priya Patel",
+      "reasons": [
+        "missing must-have skill Sales",
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Ivan Petrov",
+      "reasons": [
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "James Smith",
+      "reasons": [
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Victor Novak",
+      "reasons": [
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Omar Haddad",
+      "reasons": [
+        "missing must-have skill Sales",
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Mia Young",
+      "reasons": [
+        "missing must-have skill Sales",
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Ethan Clark",
+      "reasons": [
+        "missing must-have skill Sales",
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Isabel Costa",
+      "reasons": [
+        "missing must-have skill Sales",
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Leila Nasser",
+      "reasons": [
+        "missing must-have skill Sales",
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Sofia Rossi",
+      "reasons": [
+        "missing must-have skill Sales",
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Kenji Sato",
+      "reasons": [
+        "missing must-have skill Sales",
+        "missing must-have skill Customer Service"
+      ]
+    },
+    {
+      "candidate_name": "Tariq Aziz",
+      "reasons": [
+        "missing must-have skill Sales",
+        "missing must-have skill Customer Service"
+      ]
+    }
+  ],
+  "stats": {
+    "resumes_indexed": 50,
+    "candidates_considered": 40,
+    "passed_filters": 20,
+    "timings_ms": {
+      "embed_query": 16.8,
+      "faiss_search": 0.05,
+      "total": 55.8
+    }
+  }
+}

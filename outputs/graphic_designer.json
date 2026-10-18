@@ -1,0 +1,469 @@
+{
+  "job_description": "Graphic Designer\n\nWe are hiring a Graphic Designer to create visual assets for marketing campaigns and product.\n\nResponsibilities\n- Design branding, logos, print and digital marketing materials\n- Produce layouts in Adobe InDesign and illustrations in Adobe Illustrator\n- Retouch and compose imagery in Adobe Photoshop\n- Create wireframes and prototypes for web pages (UI/UX)\n- Maintain typography and brand guidelines\n\nRequirements\n- Must have: Adobe Photoshop and Adobe Illustrator\n- Must have: 2+ years of Graphic Design experience\n- Bachelor's degree in Graphic Design, Fine Arts or related field\n- Portfolio required; 3D modeling or web design a plus",
+  "job_title": "Graphic Designer",
+  "parsed_requirements": {
+    "required_skills": [
+      "Marketing",
+      "Graphic Design",
+      "Adobe Illustrator",
+      "Adobe InDesign",
+      "Adobe Photoshop",
+      "UI/UX Design",
+      "Typography"
+    ],
+    "preferred_skills": [
+      "3D Modeling",
+      "Web Design"
+    ],
+    "must_haves": [
+      "Adobe Photoshop",
+      "Adobe Illustrator",
+      "2+ years Graphic Design"
+    ],
+    "min_years": 2.0,
+    "degree_level": 3
+  },
+  "mode": "hybrid",
+  "top_matches": [
+    {
+      "candidate_name": "Grace Kim",
+      "resume_path": "resumes/grace_kim.pdf",
+      "match_score": 86,
+      "matched_skills": [
+        "Marketing",
+        "Graphic Design",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "UI/UX Design",
+        "Typography",
+        "3D Modeling",
+        "Web Design"
+      ],
+      "relevant_excerpts": [
+        "[Experience] 3D Designer/ Graphic Designer",
+        "[Skills] 3D, 3-D Design, 4D, After Effects, Dreamweaver, Photoshop, advertising, Animation, Arts, Art, budgets, budget, CAD, Cartooning, cash",
+        "[Skills] /XP Professional/ Vista/ Windows"
+      ],
+      "reasoning": "Strong semantic match for 'Graphic Designer' in Experience, Skills (headline: 3D Designer/ Graphic Designer); covers 7/7 required skills (Marketing, Graphic Design, Adobe Illustrator, Adobe InDesign, Adobe Photoshop, UI/UX Design); ~3.1 yrs experience (meets 2+ asked); Bachelor in Arts.",
+      "missing_skills": [],
+      "matched_sections": [
+        "experience",
+        "skills"
+      ],
+      "experience_years": 3.1,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.828,
+        "skills": 1.0,
+        "keyword": 0.527,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Jonah Reed",
+      "resume_path": "resumes/jonah_reed.pdf",
+      "match_score": 85,
+      "matched_skills": [
+        "Marketing",
+        "Graphic Design",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Photoshop",
+        "Typography",
+        "3D Modeling",
+        "Web Design"
+      ],
+      "relevant_excerpts": [
+        "[Summary] with over 15 years experience in graphic design: camera ready, color separation, layout, editing, research,",
+        "[Experience] Logo designs, color separation, duotones, book covers, banners, website buttons, thesis, portfolios, brochures, menus, web design,",
+        "[Experience] materials, using stock photography, own digital images taken with digital cameras and illustration by selecting appropriate typography, size,"
+      ],
+      "reasoning": "Strong semantic match for 'Graphic Designer' in Summary, Experience (headline: Freelance Graphic Designer); covers 6/7 required skills (Marketing, Graphic Design, Adobe Illustrator, Adobe InDesign, Adobe Photoshop, Typography); missing UI/UX Design; ~17 yrs experience (meets 2+ asked).",
+      "missing_skills": [
+        "UI/UX Design"
+      ],
+      "matched_sections": [
+        "summary",
+        "experience"
+      ],
+      "experience_years": 17.0,
+      "education": null,
+      "score_breakdown": {
+        "semantic": 0.836,
+        "skills": 0.909,
+        "keyword": 0.886,
+        "qualification": 0.775
+      }
+    },
+    {
+      "candidate_name": "Hugo Martin",
+      "resume_path": "resumes/hugo_martin.pdf",
+      "match_score": 84,
+      "matched_skills": [
+        "Marketing",
+        "Graphic Design",
+        "Adobe Illustrator",
+        "Adobe InDesign",
+        "Adobe Photoshop"
+      ],
+      "relevant_excerpts": [
+        "[Skills] Photoshop, Illustrator and InDesign as well as Microsoft Office programs Powerpoint, Word and Excel. Areas of knowledge and",
+        "[Summary] Accomplished, creative marketing professional with proven success in graphic design, corporate marketing communications, project and event",
+        "[Skills] direction, fundraising, Graphic Design, hiring, illustration, Illustrator, InDesign, marketing, marketing collateral, Marketing Communications,"
+      ],
+      "reasoning": "Strong semantic match for 'Graphic Designer' in Skills, Summary (headline: Marketing Specialist Graphic Designer); covers 5/7 required skills (Marketing, Graphic Design, Adobe Illustrator, Adobe InDesign, Adobe Photoshop); missing UI/UX Design, Typography; ~26.1 yrs experience (meets 2+ asked); Master.",
+      "missing_skills": [
+        "UI/UX Design",
+        "Typography"
+      ],
+      "matched_sections": [
+        "skills",
+        "summary"
+      ],
+      "experience_years": 26.1,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.837,
+        "skills": 0.727,
+        "keyword": 1.0,
+        "qualification": 1.0
+      }
+    }
+  ],
+  "filtered_out": [
+    {
+      "candidate_name": "Ivan Petrov",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator"
+      ]
+    },
+    {
+      "candidate_name": "Tariq Aziz",
+      "reasons": [
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Victor Novak",
+      "reasons": [
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Pavel Volkov",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Ines Ferreira",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator"
+      ]
+    },
+    {
+      "candidate_name": "Chloe Dubois",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Kenji Sato",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Samuel Turner",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Lina Saleh",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "James Smith",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Arjun Mehta",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Diego Torres",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Amara Okafor",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Noah Wilson",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Daniel Miller",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Felix Weber",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Marco Bianchi",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Omar Haddad",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Aisha Bello",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Nadia Hassan",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Mia Young",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Maya Shah",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Ruth Adler",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Ethan Clark",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Kwame Mensah",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Leila Nasser",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Emma Brown",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Sofia Rossi",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Ravi Iyer",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Elena Popescu",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Hannah Fischer",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Olivia Evans",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Yuki Tanaka",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Maria Garcia",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Ana Pereira",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Ahmed Khan",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Leo Moreau",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Rosa Diaz",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Priya Patel",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Isabel Costa",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    },
+    {
+      "candidate_name": "Chen Wang",
+      "reasons": [
+        "missing must-have skill Adobe Photoshop",
+        "missing must-have skill Adobe Illustrator",
+        "missing must-have skill Graphic Design"
+      ]
+    }
+  ],
+  "stats": {
+    "resumes_indexed": 50,
+    "candidates_considered": 44,
+    "passed_filters": 3,
+    "timings_ms": {
+      "embed_query": 19.0,
+      "faiss_search": 0.07,
+      "total": 35.3
+    }
+  }
+}

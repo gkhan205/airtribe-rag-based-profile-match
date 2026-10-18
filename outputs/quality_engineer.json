@@ -1,0 +1,463 @@
+{
+  "job_description": "Manufacturing / Quality Engineer\n\nWe need a Manufacturing Quality Engineer for our production plant.\n\nResponsibilities\n- Lead root cause analysis and CAPA for production defects\n- Maintain ISO 9001 quality control systems and audits\n- Drive Lean Six Sigma and continuous improvement projects\n- Design fixtures and parts in AutoCAD / SolidWorks\n- Support manufacturing process improvement and project management\n\nRequirements\n- Must have: Manufacturing and Quality Control experience\n- Bachelor's degree in Mechanical Engineering or related field\n- 3+ years of engineering experience\n- Six Sigma Green Belt and MATLAB experience a plus",
+  "job_title": "Manufacturing / Quality Engineer",
+  "parsed_requirements": {
+    "required_skills": [
+      "Manufacturing",
+      "Quality Control",
+      "Auditing",
+      "Lean Six Sigma",
+      "Process Improvement",
+      "AutoCAD",
+      "SolidWorks",
+      "Project Management",
+      "Mechanical Engineering"
+    ],
+    "preferred_skills": [
+      "MATLAB"
+    ],
+    "must_haves": [
+      "Quality Control",
+      "Manufacturing"
+    ],
+    "min_years": 3.0,
+    "degree_level": 3
+  },
+  "mode": "hybrid",
+  "top_matches": [
+    {
+      "candidate_name": "Kenji Sato",
+      "resume_path": "resumes/kenji_sato.pdf",
+      "match_score": 73,
+      "matched_skills": [
+        "Manufacturing",
+        "Quality Control",
+        "Lean Six Sigma",
+        "Process Improvement",
+        "AutoCAD",
+        "Project Management",
+        "Mechanical Engineering"
+      ],
+      "relevant_excerpts": [
+        "[Summary] launch, quality and Toyota production systems. Extensive understanding on process engineering and design and development of automotive",
+        "[Education] Manufacturing Systems Engineering",
+        "[Skills] Project Management, GD&T, Minitab, Kanban, Kaizen, FMEA. development."
+      ],
+      "reasoning": "Strong semantic match for 'Manufacturing / Quality Engineer' in Summary, Education, Skills (headline: Engineering Assistant); covers 7/9 required skills (Manufacturing, Quality Control, Lean Six Sigma, Process Improvement, AutoCAD, Project Management); missing Auditing, SolidWorks; ~3.2 yrs experience (meets 3+ asked); Master in Manufacturing Systems Engineering.",
+      "missing_skills": [
+        "Auditing",
+        "SolidWorks"
+      ],
+      "matched_sections": [
+        "summary",
+        "education",
+        "skills"
+      ],
+      "experience_years": 3.2,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.613,
+        "skills": 0.783,
+        "keyword": 1.0,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Noah Wilson",
+      "resume_path": "resumes/noah_wilson.pdf",
+      "match_score": 72,
+      "matched_skills": [
+        "Manufacturing",
+        "Quality Control",
+        "Project Management",
+        "Mechanical Engineering"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Responsible for improving site compliance and reducing recurring deviations through NCR Investigations and CAPA implementation.",
+        "[Experience] Responsible for the engineering activities and support related to all aspects of the manufacturing process including: Injection Molding,",
+        "[Summary] With over 14 years of experience in the fields of Class II and III medical device manufacturing, molecular diagnostics, and biotechnology; the last 8"
+      ],
+      "reasoning": "Strong semantic match for 'Manufacturing / Quality Engineer' in Experience, Summary (headline: Manager, Quality Engineering); covers 4/9 required skills (Manufacturing, Quality Control, Project Management, Mechanical Engineering); missing Auditing, Lean Six Sigma, Process Improvement, AutoCAD; ~14.3 yrs experience (meets 3+ asked); Master in Mechanical Engineering.",
+      "missing_skills": [
+        "Auditing",
+        "Lean Six Sigma",
+        "Process Improvement",
+        "AutoCAD",
+        "SolidWorks"
+      ],
+      "matched_sections": [
+        "experience",
+        "summary"
+      ],
+      "experience_years": 14.3,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.733,
+        "skills": 0.522,
+        "keyword": 0.817,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Emma Brown",
+      "resume_path": "resumes/emma_brown.pdf",
+      "match_score": 71,
+      "matched_skills": [
+        "Manufacturing",
+        "Quality Control",
+        "AutoCAD",
+        "SolidWorks",
+        "Project Management",
+        "Mechanical Engineering"
+      ],
+      "relevant_excerpts": [
+        "[Summary] Mechanical Engineer Professional offering 25 years of progressive experience within a manufacturing setting. Experienced project manager that",
+        "[Experience] Updated Piping and instrumentation drawings in Auto-Cad Performed failure analysis on process equipment and implemented new",
+        "[Experience] Project Manager/Electrician"
+      ],
+      "reasoning": "Strong semantic match for 'Manufacturing / Quality Engineer' in Summary, Experience (headline: Mechanical Engineering Intern); covers 6/9 required skills (Manufacturing, Quality Control, AutoCAD, SolidWorks, Project Management, Mechanical Engineering); missing Auditing, Lean Six Sigma, Process Improvement; ~25 yrs experience (meets 3+ asked); Bachelor in Mechanical Engineering.",
+      "missing_skills": [
+        "Auditing",
+        "Lean Six Sigma",
+        "Process Improvement"
+      ],
+      "matched_sections": [
+        "summary",
+        "experience"
+      ],
+      "experience_years": 25,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.658,
+        "skills": 0.696,
+        "keyword": 0.715,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Pavel Volkov",
+      "resume_path": "resumes/pavel_volkov.pdf",
+      "match_score": 55,
+      "matched_skills": [
+        "Manufacturing",
+        "Quality Control"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Review graded specs, tolerances and construction for consistency before sending to factories for production and generating stock grading.",
+        "[Experience] Served as a Liaison between Spec Department with other Department such as Quality Control, Design, Trims, Pattern Making, Sample Room,",
+        "[Experience] Interface with Design, Product Development, Merchants, Production Quality Assurance and Suppliers daily to ensure dos updated information has"
+      ],
+      "reasoning": "Strong semantic match for 'Manufacturing / Quality Engineer' in Experience (headline: Apparel Technical Designer); covers 2/9 required skills (Manufacturing, Quality Control); missing Auditing, Lean Six Sigma, Process Improvement, AutoCAD; ~9.3 yrs experience (meets 3+ asked).",
+      "missing_skills": [
+        "Auditing",
+        "Lean Six Sigma",
+        "Process Improvement",
+        "AutoCAD",
+        "SolidWorks",
+        "Project Management",
+        "Mechanical Engineering"
+      ],
+      "matched_sections": [
+        "experience"
+      ],
+      "experience_years": 9.3,
+      "education": null,
+      "score_breakdown": {
+        "semantic": 0.629,
+        "skills": 0.348,
+        "keyword": 0.368,
+        "qualification": 0.775
+      }
+    },
+    {
+      "candidate_name": "Ivan Petrov",
+      "resume_path": "resumes/ivan_petrov.pdf",
+      "match_score": 37,
+      "matched_skills": [
+        "Manufacturing",
+        "Quality Control",
+        "Project Management"
+      ],
+      "relevant_excerpts": [
+        "[Summary] QUALIFICATIONS FOR PROJECT MANAGER, MEMBER SUPPORT TOOLS AND PROCESS",
+        "[Skills] Print Production/ Schedules",
+        "[Skills] Team Building / Training / Innovation Print Production/ Schedules"
+      ],
+      "reasoning": "Weak semantic match for 'Manufacturing / Quality Engineer' in Summary, Skills (headline: Sales Support); covers 3/9 required skills (Manufacturing, Quality Control, Project Management); missing Auditing, Lean Six Sigma, Process Improvement, AutoCAD; ~24 yrs experience (meets 3+ asked); Master.",
+      "missing_skills": [
+        "Auditing",
+        "Lean Six Sigma",
+        "Process Improvement",
+        "AutoCAD",
+        "SolidWorks",
+        "Mechanical Engineering"
+      ],
+      "matched_sections": [
+        "summary",
+        "skills"
+      ],
+      "experience_years": 24.0,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.24,
+        "skills": 0.435,
+        "keyword": 0.336,
+        "qualification": 1.0
+      }
+    }
+  ],
+  "filtered_out": [
+    {
+      "candidate_name": "Samuel Turner",
+      "reasons": [
+        "missing must-have skill Quality Control"
+      ]
+    },
+    {
+      "candidate_name": "Lina Saleh",
+      "reasons": [
+        "missing must-have skill Quality Control"
+      ]
+    },
+    {
+      "candidate_name": "Nadia Hassan",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Aisha Bello",
+      "reasons": [
+        "missing must-have skill Quality Control"
+      ]
+    },
+    {
+      "candidate_name": "Chloe Dubois",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Rosa Diaz",
+      "reasons": [
+        "missing must-have skill Quality Control"
+      ]
+    },
+    {
+      "candidate_name": "Chen Wang",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Grace Kim",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Omar Haddad",
+      "reasons": [
+        "missing must-have skill Quality Control"
+      ]
+    },
+    {
+      "candidate_name": "Hannah Fischer",
+      "reasons": [
+        "missing must-have skill Quality Control"
+      ]
+    },
+    {
+      "candidate_name": "Hugo Martin",
+      "reasons": [
+        "missing must-have skill Quality Control"
+      ]
+    },
+    {
+      "candidate_name": "James Smith",
+      "reasons": [
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Andre Moore",
+      "reasons": [
+        "missing must-have skill Quality Control"
+      ]
+    },
+    {
+      "candidate_name": "Kwame Mensah",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Isabel Costa",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Ahmed Khan",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Amara Okafor",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Ethan Clark",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Felix Weber",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Mia Young",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Sara Cohen",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Zara Ali",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Daniel Miller",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Maria Garcia",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Ines Ferreira",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Ravi Iyer",
+      "reasons": [
+        "missing must-have skill Quality Control"
+      ]
+    },
+    {
+      "candidate_name": "Priya Patel",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Fatima Rahman",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Victor Novak",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Elena Popescu",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Yuki Tanaka",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Tariq Aziz",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Ana Pereira",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Leila Nasser",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Maya Shah",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    },
+    {
+      "candidate_name": "Leo Moreau",
+      "reasons": [
+        "missing must-have skill Quality Control",
+        "missing must-have skill Manufacturing"
+      ]
+    }
+  ],
+  "stats": {
+    "resumes_indexed": 50,
+    "candidates_considered": 41,
+    "passed_filters": 5,
+    "timings_ms": {
+      "embed_query": 14.2,
+      "faiss_search": 0.05,
+      "total": 34.8
+    }
+  }
+}

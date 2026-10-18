@@ -1,0 +1,619 @@
+{
+  "job_description": "Elementary School Teacher\n\nOur school is seeking a certified Elementary School Teacher.\n\nResponsibilities\n- Develop lesson plans aligned to state curriculum standards\n- Teach and instruct students across reading, math and science\n- Maintain positive classroom management\n- Use differentiated instruction to support ESL and special education students (IEP)\n- Conduct student assessment and track progress; communicate with parents\n\nRequirements\n- Must have: Teaching experience\n- Lesson Planning and Classroom Management skills\n- Bachelor's degree in Education; teaching certification required\n- 2+ years of teaching experience preferred",
+  "job_title": "Elementary School Teacher",
+  "parsed_requirements": {
+    "required_skills": [
+      "Teaching",
+      "Lesson Planning",
+      "Classroom Management",
+      "Special Education",
+      "ESL",
+      "Differentiated Instruction",
+      "Student Assessment"
+    ],
+    "preferred_skills": [],
+    "must_haves": [
+      "Teaching"
+    ],
+    "min_years": null,
+    "degree_level": 3
+  },
+  "mode": "hybrid",
+  "top_matches": [
+    {
+      "candidate_name": "Lucas Silva",
+      "resume_path": "resumes/lucas_silva.pdf",
+      "match_score": 81,
+      "matched_skills": [
+        "Teaching",
+        "Lesson Planning",
+        "Classroom Management",
+        "Differentiated Instruction",
+        "Student Assessment"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Set and communicated ground rules for the classroom based on respect and personal responsibility.Identified early signs of emotional,",
+        "[Summary] Kind and compassionate Elementary School Teacher dedicated to creating an atmosphere that is stimulating and encouraging to all students.",
+        "[Skills] Texas Teaching Certificate with Early Childhood Education endorsement"
+      ],
+      "reasoning": "Strong semantic match for 'Elementary School Teacher' in Experience, Summary, Skills (headline: Teacher); covers 5/7 required skills (Teaching, Lesson Planning, Classroom Management, Differentiated Instruction, Student Assessment); missing Special Education, ESL; ~2.8 yrs experience; Master.",
+      "missing_skills": [
+        "Special Education",
+        "ESL"
+      ],
+      "matched_sections": [
+        "experience",
+        "summary",
+        "skills"
+      ],
+      "experience_years": 2.8,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.773,
+        "skills": 0.75,
+        "keyword": 1.0,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Daniel Miller",
+      "resume_path": "resumes/daniel_miller.pdf",
+      "match_score": 78,
+      "matched_skills": [
+        "Teaching",
+        "Lesson Planning",
+        "Classroom Management"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Plan, evaluate, and revise course material and methods of instruction to meet the needs of all students.",
+        "[Education] Graduate Teaching Licensure  ,",
+        "[Experience] Supervises site program (attendance, behavior management, curriculum, budget, student safety, etc.) for the purpose of ensuring success of"
+      ],
+      "reasoning": "Strong semantic match for 'Elementary School Teacher' in Experience, Education (headline: Teacher); covers 3/7 required skills (Teaching, Lesson Planning, Classroom Management); missing Special Education, ESL, Differentiated Instruction, Student Assessment; ~12.6 yrs experience; Master.",
+      "missing_skills": [
+        "Special Education",
+        "ESL",
+        "Differentiated Instruction",
+        "Student Assessment"
+      ],
+      "matched_sections": [
+        "experience",
+        "education"
+      ],
+      "experience_years": 12.6,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.828,
+        "skills": 0.5,
+        "keyword": 0.972,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Victor Novak",
+      "resume_path": "resumes/victor_novak.pdf",
+      "match_score": 59,
+      "matched_skills": [
+        "Teaching",
+        "Lesson Planning",
+        "Classroom Management",
+        "Student Assessment"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Performed regular classroom instruction based on a departmentalized third grade curriculum.",
+        "[Summary] An experienced human resource training professional with demonstrated success in developing, delivering and evaluating, corporate training",
+        "[Experience] Dynamic knowledge base of outstanding communication skills: report/proposal writing and person-to-person."
+      ],
+      "reasoning": "Moderate semantic match for 'Elementary School Teacher' in Experience, Summary (headline: Teacher); covers 4/7 required skills (Teaching, Lesson Planning, Classroom Management, Student Assessment); missing Special Education, ESL, Differentiated Instruction; ~25.1 yrs experience; Master.",
+      "missing_skills": [
+        "Special Education",
+        "ESL",
+        "Differentiated Instruction"
+      ],
+      "matched_sections": [
+        "experience",
+        "summary"
+      ],
+      "experience_years": 25.1,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.487,
+        "skills": 0.625,
+        "keyword": 0.695,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Sofia Rossi",
+      "resume_path": "resumes/sofia_rossi.pdf",
+      "match_score": 54,
+      "matched_skills": [
+        "Teaching",
+        "Lesson Planning"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Data driven instruction and curriculum design",
+        "[Summary] 9 years of professional experience in teaching, facilitating, and training",
+        "[Experience] Created and facilitated intercultural communication classes for adults"
+      ],
+      "reasoning": "Moderate semantic match for 'Elementary School Teacher' in Experience, Summary (headline: Teacher); covers 2/7 required skills (Teaching, Lesson Planning); missing Classroom Management, Special Education, ESL, Differentiated Instruction; ~9 yrs experience; Bachelor in Political Communications May.",
+      "missing_skills": [
+        "Classroom Management",
+        "Special Education",
+        "ESL",
+        "Differentiated Instruction",
+        "Student Assessment"
+      ],
+      "matched_sections": [
+        "experience",
+        "summary"
+      ],
+      "experience_years": 9,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.501,
+        "skills": 0.375,
+        "keyword": 0.746,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Mateo Lopez",
+      "resume_path": "resumes/mateo_lopez.pdf",
+      "match_score": 51,
+      "matched_skills": [
+        "Teaching",
+        "Classroom Management",
+        "Special Education"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Grades K - 12 Full-time substitute teacher for children ages 5 to 18.",
+        "[Education] Buddy' assisting special needs kids with playing athletic sports. * Professional references available upon request.",
+        "[Skills] Effective verbal, listening and written communication skills, and"
+      ],
+      "reasoning": "Moderate semantic match for 'Elementary School Teacher' in Experience, Education, Skills (headline: Substitute Teacher); covers 3/7 required skills (Teaching, Classroom Management, Special Education); missing Lesson Planning, ESL, Differentiated Instruction, Student Assessment; ~2.9 yrs experience; Bachelor in Healthcare Administration.",
+      "missing_skills": [
+        "Lesson Planning",
+        "ESL",
+        "Differentiated Instruction",
+        "Student Assessment"
+      ],
+      "matched_sections": [
+        "experience",
+        "education",
+        "skills"
+      ],
+      "experience_years": 2.9,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.419,
+        "skills": 0.5,
+        "keyword": 0.535,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Mia Young",
+      "resume_path": "resumes/mia_young.pdf",
+      "match_score": 44,
+      "matched_skills": [
+        "Teaching",
+        "Lesson Planning",
+        "Classroom Management",
+        "Student Assessment"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Designed, developed and facilitated instructor led and online classes for the organization's finance associates for Project Oceans and Project",
+        "[Experience] day instructor led training, Operational Effectiveness Phases I - IV for Select Service Assistant General Managers and Operations",
+        "[Education] option in Online Teaching and Learning Creating Effective Collaborative Learning Experiences GPA: 4.0"
+      ],
+      "reasoning": "Weak semantic match for 'Elementary School Teacher' in Experience, Education (headline: Accountant); covers 4/7 required skills (Teaching, Lesson Planning, Classroom Management, Student Assessment); missing Special Education, ESL, Differentiated Instruction; ~12 yrs experience; Master.",
+      "missing_skills": [
+        "Special Education",
+        "ESL",
+        "Differentiated Instruction"
+      ],
+      "matched_sections": [
+        "experience",
+        "education"
+      ],
+      "experience_years": 12.0,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.202,
+        "skills": 0.625,
+        "keyword": 0.692,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Pavel Volkov",
+      "resume_path": "resumes/pavel_volkov.pdf",
+      "match_score": 41,
+      "matched_skills": [
+        "Teaching",
+        "Student Assessment"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Investigated and reported line efficiency on a daily basis.",
+        "[Experience] Wrote Specification Sheets, including Sewing construction, Trim, Grading, Patterns and label parts.",
+        "[Skills] Proven success in writing specification sheets"
+      ],
+      "reasoning": "Moderate semantic match for 'Elementary School Teacher' in Experience, Skills (headline: Apparel Technical Designer); covers 2/7 required skills (Teaching, Student Assessment); missing Lesson Planning, Classroom Management, Special Education, ESL; ~9.3 yrs experience.",
+      "missing_skills": [
+        "Lesson Planning",
+        "Classroom Management",
+        "Special Education",
+        "ESL",
+        "Differentiated Instruction"
+      ],
+      "matched_sections": [
+        "experience",
+        "skills"
+      ],
+      "experience_years": 9.3,
+      "education": null,
+      "score_breakdown": {
+        "semantic": 0.403,
+        "skills": 0.375,
+        "keyword": 0.139,
+        "qualification": 0.775
+      }
+    },
+    {
+      "candidate_name": "Arjun Mehta",
+      "resume_path": "resumes/arjun_mehta.pdf",
+      "match_score": 39,
+      "matched_skills": [
+        "Teaching",
+        "Student Assessment"
+      ],
+      "relevant_excerpts": [
+        "[Experience] to head the start up of a Swim Lesson program for children and adults.",
+        "[Experience] Maintained positive customer relations in a sales environment by;",
+        "[Accomplishments] Demonstrated strong communication skills through extensive work with a diverse population; President of academic and extracurricular"
+      ],
+      "reasoning": "Weak semantic match for 'Elementary School Teacher' in Experience, Accomplishments (headline: Sales Associate); covers 2/7 required skills (Teaching, Student Assessment); missing Lesson Planning, Classroom Management, Special Education, ESL; ~10 yrs experience; Bachelor in BUSINESS MARKETING Business.",
+      "missing_skills": [
+        "Lesson Planning",
+        "Classroom Management",
+        "Special Education",
+        "ESL",
+        "Differentiated Instruction"
+      ],
+      "matched_sections": [
+        "experience",
+        "accomplishments"
+      ],
+      "experience_years": 10,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.338,
+        "skills": 0.375,
+        "keyword": 0.134,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Samuel Turner",
+      "resume_path": "resumes/samuel_turner.pdf",
+      "match_score": 35,
+      "matched_skills": [
+        "Teaching"
+      ],
+      "relevant_excerpts": [
+        "[Education] Certified Public Accountant Green Belt Trained in Lean Six Sigma (2011)",
+        "[Skills] Cost Accounting, Variance Analysis, Cost Reduction, Standard and Actual Costing, GAAP, Hyperion",
+        "[Experience] finance team to create standard operating procedures (SOP) and job instruction breakdown (JIBs) on annual budgeting process."
+      ],
+      "reasoning": "Weak semantic match for 'Elementary School Teacher' in Education, Skills, Experience (headline: Finance Manager / Plant Controller); covers 1/7 required skills (Teaching); missing Lesson Planning, Classroom Management, Special Education, ESL; ~9.1 yrs experience; Master in Accountancy.",
+      "missing_skills": [
+        "Lesson Planning",
+        "Classroom Management",
+        "Special Education",
+        "ESL",
+        "Differentiated Instruction",
+        "Student Assessment"
+      ],
+      "matched_sections": [
+        "education",
+        "skills",
+        "experience"
+      ],
+      "experience_years": 9.1,
+      "education": "Master",
+      "score_breakdown": {
+        "semantic": 0.277,
+        "skills": 0.25,
+        "keyword": 0.352,
+        "qualification": 1.0
+      }
+    },
+    {
+      "candidate_name": "Leila Nasser",
+      "resume_path": "resumes/leila_nasser.pdf",
+      "match_score": 29,
+      "matched_skills": [
+        "Teaching"
+      ],
+      "relevant_excerpts": [
+        "[Experience] Resolved student center questions and arranged peer-to-peer tutoring/assistance with specific students in CSS program.",
+        "[Other] Able to document, effectively communicate, and succeed within a group setting in order to become a superior team player Willing to work",
+        "[Experience] Assisted student workers with new computer installations and configurations as well as creating documentation"
+      ],
+      "reasoning": "Weak semantic match for 'Elementary School Teacher' in Experience (headline: Support & Network Services Intern); covers 1/7 required skills (Teaching); missing Lesson Planning, Classroom Management, Special Education, ESL; ~1.8 yrs experience; Bachelor in Information Science & Technology.",
+      "missing_skills": [
+        "Lesson Planning",
+        "Classroom Management",
+        "Special Education",
+        "ESL",
+        "Differentiated Instruction",
+        "Student Assessment"
+      ],
+      "matched_sections": [
+        "experience",
+        "other"
+      ],
+      "experience_years": 1.8,
+      "education": "Bachelor",
+      "score_breakdown": {
+        "semantic": 0.186,
+        "skills": 0.25,
+        "keyword": 0.296,
+        "qualification": 1.0
+      }
+    }
+  ],
+  "filtered_out": [
+    {
+      "candidate_name": "Chloe Dubois",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Zara Ali",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Fatima Rahman",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Ana Pereira",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Ahmed Khan",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Olivia Evans",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Priya Patel",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Maria Garcia",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Marco Bianchi",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Aisha Bello",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Ruth Adler",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Elena Popescu",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Isabel Costa",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Maya Shah",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Lina Saleh",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Felix Weber",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Kwame Mensah",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "James Smith",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Yuki Tanaka",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Grace Kim",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Ethan Clark",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Amara Okafor",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Sara Cohen",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Hugo Martin",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Ravi Iyer",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Hannah Fischer",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Diego Torres",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Leo Moreau",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Nadia Hassan",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Ines Ferreira",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Tariq Aziz",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Noah Wilson",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Emma Brown",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Chen Wang",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Kenji Sato",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Omar Haddad",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Rosa Diaz",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Ivan Petrov",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Andre Moore",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    },
+    {
+      "candidate_name": "Jonah Reed",
+      "reasons": [
+        "missing must-have skill Teaching"
+      ]
+    }
+  ],
+  "stats": {
+    "resumes_indexed": 50,
+    "candidates_considered": 50,
+    "passed_filters": 10,
+    "timings_ms": {
+      "embed_query": 15.3,
+      "faiss_search": 0.05,
+      "total": 50.3
+    }
+  }
+}

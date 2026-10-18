@@ -1,0 +1,1395 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "argparse",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "argparse",
+        "description": "argparse",
+        "detail": "argparse",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "# noqa: E402\n    FETCH_CATEGORIES",
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "isExtraImport": true,
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FETCH_PER_CATEGORY",
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "isExtraImport": true,
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FETCH_SEED",
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "isExtraImport": true,
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FIRST_NAMES",
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "isExtraImport": true,
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "HF_FILE_URL",
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "isExtraImport": true,
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "HF_TREE_URL",
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "isExtraImport": true,
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LABELS_FILE",
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "isExtraImport": true,
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LAST_NAMES",
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "isExtraImport": true,
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "RESUMES_DIR",
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "isExtraImport": true,
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "rel",
+        "importPath": "src.file_tools",
+        "description": "src.file_tools",
+        "isExtraImport": true,
+        "detail": "src.file_tools",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "re",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "re",
+        "description": "re",
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "date",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "field",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "BM25Okapi",
+        "importPath": "rank_bm25",
+        "description": "rank_bm25",
+        "isExtraImport": true,
+        "detail": "rank_bm25",
+        "documentation": {}
+    },
+    {
+        "label": "faiss",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "faiss",
+        "description": "faiss",
+        "detail": "faiss",
+        "documentation": {}
+    },
+    {
+        "label": "lru_cache",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "list_pdfs",
+        "kind": 2,
+        "importPath": "scripts.fetch_resumes",
+        "description": "scripts.fetch_resumes",
+        "peekOfCode": "def list_pdfs(category: str) -> list[str]:\n    resp = requests.get(HF_TREE_URL.format(cat=category), timeout=30)\n    resp.raise_for_status()\n    return sorted(e[\"path\"] for e in resp.json() if e[\"path\"].endswith(\".pdf\"))\ndef main(argv: list[str] | None = None) -> None:\n    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)\n    ap.add_argument(\"--per-category\", type=int, default=FETCH_PER_CATEGORY)\n    ap.add_argument(\"--out\", default=str(RESUMES_DIR))\n    ap.add_argument(\"--seed\", type=int, default=FETCH_SEED)\n    args = ap.parse_args(argv)",
+        "detail": "scripts.fetch_resumes",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "scripts.fetch_resumes",
+        "description": "scripts.fetch_resumes",
+        "peekOfCode": "def main(argv: list[str] | None = None) -> None:\n    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)\n    ap.add_argument(\"--per-category\", type=int, default=FETCH_PER_CATEGORY)\n    ap.add_argument(\"--out\", default=str(RESUMES_DIR))\n    ap.add_argument(\"--seed\", type=int, default=FETCH_SEED)\n    args = ap.parse_args(argv)\n    out = Path(args.out)\n    out.mkdir(parents=True, exist_ok=True)\n    rng = random.Random(args.seed)\n    names = [f\"{f} {l}\" for f, l in zip(FIRST_NAMES, LAST_NAMES)]",
+        "detail": "scripts.fetch_resumes",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "ROOT = Path(__file__).resolve().parent.parent\nRESUMES_DIR = ROOT / \"resumes\"\nJD_DIR = ROOT / \"job_descriptions\"\nINDEX_DIR = ROOT / \"index\"\nOUTPUTS_DIR = ROOT / \"outputs\"\nGROUND_TRUTH = JD_DIR / \"ground_truth.json\"\nLABELS_FILE = \"_labels.json\"  # inside RESUMES_DIR; evaluation-only metadata\n# Index artifact file names (inside an index dir)\nFAISS_FILE = \"faiss.index\"\nCHUNKS_FILE = \"chunks.jsonl\"",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "RESUMES_DIR",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "RESUMES_DIR = ROOT / \"resumes\"\nJD_DIR = ROOT / \"job_descriptions\"\nINDEX_DIR = ROOT / \"index\"\nOUTPUTS_DIR = ROOT / \"outputs\"\nGROUND_TRUTH = JD_DIR / \"ground_truth.json\"\nLABELS_FILE = \"_labels.json\"  # inside RESUMES_DIR; evaluation-only metadata\n# Index artifact file names (inside an index dir)\nFAISS_FILE = \"faiss.index\"\nCHUNKS_FILE = \"chunks.jsonl\"\nMETA_FILE = \"resumes_meta.json\"",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "JD_DIR",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "JD_DIR = ROOT / \"job_descriptions\"\nINDEX_DIR = ROOT / \"index\"\nOUTPUTS_DIR = ROOT / \"outputs\"\nGROUND_TRUTH = JD_DIR / \"ground_truth.json\"\nLABELS_FILE = \"_labels.json\"  # inside RESUMES_DIR; evaluation-only metadata\n# Index artifact file names (inside an index dir)\nFAISS_FILE = \"faiss.index\"\nCHUNKS_FILE = \"chunks.jsonl\"\nMETA_FILE = \"resumes_meta.json\"\nCONFIG_FILE = \"config.json\"",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "INDEX_DIR",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "INDEX_DIR = ROOT / \"index\"\nOUTPUTS_DIR = ROOT / \"outputs\"\nGROUND_TRUTH = JD_DIR / \"ground_truth.json\"\nLABELS_FILE = \"_labels.json\"  # inside RESUMES_DIR; evaluation-only metadata\n# Index artifact file names (inside an index dir)\nFAISS_FILE = \"faiss.index\"\nCHUNKS_FILE = \"chunks.jsonl\"\nMETA_FILE = \"resumes_meta.json\"\nCONFIG_FILE = \"config.json\"\n# ---------------------------------------------------------------------------",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "OUTPUTS_DIR",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "OUTPUTS_DIR = ROOT / \"outputs\"\nGROUND_TRUTH = JD_DIR / \"ground_truth.json\"\nLABELS_FILE = \"_labels.json\"  # inside RESUMES_DIR; evaluation-only metadata\n# Index artifact file names (inside an index dir)\nFAISS_FILE = \"faiss.index\"\nCHUNKS_FILE = \"chunks.jsonl\"\nMETA_FILE = \"resumes_meta.json\"\nCONFIG_FILE = \"config.json\"\n# ---------------------------------------------------------------------------\n# File loading",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "GROUND_TRUTH",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "GROUND_TRUTH = JD_DIR / \"ground_truth.json\"\nLABELS_FILE = \"_labels.json\"  # inside RESUMES_DIR; evaluation-only metadata\n# Index artifact file names (inside an index dir)\nFAISS_FILE = \"faiss.index\"\nCHUNKS_FILE = \"chunks.jsonl\"\nMETA_FILE = \"resumes_meta.json\"\nCONFIG_FILE = \"config.json\"\n# ---------------------------------------------------------------------------\n# File loading\n# ---------------------------------------------------------------------------",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LABELS_FILE",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "LABELS_FILE = \"_labels.json\"  # inside RESUMES_DIR; evaluation-only metadata\n# Index artifact file names (inside an index dir)\nFAISS_FILE = \"faiss.index\"\nCHUNKS_FILE = \"chunks.jsonl\"\nMETA_FILE = \"resumes_meta.json\"\nCONFIG_FILE = \"config.json\"\n# ---------------------------------------------------------------------------\n# File loading\n# ---------------------------------------------------------------------------\nSUPPORTED_EXTS = (\".pdf\", \".docx\", \".txt\", \".md\")",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FAISS_FILE",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "FAISS_FILE = \"faiss.index\"\nCHUNKS_FILE = \"chunks.jsonl\"\nMETA_FILE = \"resumes_meta.json\"\nCONFIG_FILE = \"config.json\"\n# ---------------------------------------------------------------------------\n# File loading\n# ---------------------------------------------------------------------------\nSUPPORTED_EXTS = (\".pdf\", \".docx\", \".txt\", \".md\")\n# ---------------------------------------------------------------------------\n# Embeddings",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CHUNKS_FILE",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "CHUNKS_FILE = \"chunks.jsonl\"\nMETA_FILE = \"resumes_meta.json\"\nCONFIG_FILE = \"config.json\"\n# ---------------------------------------------------------------------------\n# File loading\n# ---------------------------------------------------------------------------\nSUPPORTED_EXTS = (\".pdf\", \".docx\", \".txt\", \".md\")\n# ---------------------------------------------------------------------------\n# Embeddings\n# ---------------------------------------------------------------------------",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "META_FILE",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "META_FILE = \"resumes_meta.json\"\nCONFIG_FILE = \"config.json\"\n# ---------------------------------------------------------------------------\n# File loading\n# ---------------------------------------------------------------------------\nSUPPORTED_EXTS = (\".pdf\", \".docx\", \".txt\", \".md\")\n# ---------------------------------------------------------------------------\n# Embeddings\n# ---------------------------------------------------------------------------\nDEFAULT_MODEL = \"BAAI/bge-small-en-v1.5\"",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CONFIG_FILE",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "CONFIG_FILE = \"config.json\"\n# ---------------------------------------------------------------------------\n# File loading\n# ---------------------------------------------------------------------------\nSUPPORTED_EXTS = (\".pdf\", \".docx\", \".txt\", \".md\")\n# ---------------------------------------------------------------------------\n# Embeddings\n# ---------------------------------------------------------------------------\nDEFAULT_MODEL = \"BAAI/bge-small-en-v1.5\"\nALT_MODEL = \"sentence-transformers/all-MiniLM-L6-v2\"",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SUPPORTED_EXTS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "SUPPORTED_EXTS = (\".pdf\", \".docx\", \".txt\", \".md\")\n# ---------------------------------------------------------------------------\n# Embeddings\n# ---------------------------------------------------------------------------\nDEFAULT_MODEL = \"BAAI/bge-small-en-v1.5\"\nALT_MODEL = \"sentence-transformers/all-MiniLM-L6-v2\"\n# bge models expect this instruction on queries (not on passages)\nQUERY_INSTRUCTIONS = {DEFAULT_MODEL: \"Represent this sentence for searching relevant passages: \"}\nEMBED_BATCH_SIZE = 32\n# ---------------------------------------------------------------------------",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_MODEL",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "DEFAULT_MODEL = \"BAAI/bge-small-en-v1.5\"\nALT_MODEL = \"sentence-transformers/all-MiniLM-L6-v2\"\n# bge models expect this instruction on queries (not on passages)\nQUERY_INSTRUCTIONS = {DEFAULT_MODEL: \"Represent this sentence for searching relevant passages: \"}\nEMBED_BATCH_SIZE = 32\n# ---------------------------------------------------------------------------\n# Chunking\n# ---------------------------------------------------------------------------\nCHUNKERS = (\"section\", \"fixed\")\nDEFAULT_CHUNKER = \"section\"",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "ALT_MODEL",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "ALT_MODEL = \"sentence-transformers/all-MiniLM-L6-v2\"\n# bge models expect this instruction on queries (not on passages)\nQUERY_INSTRUCTIONS = {DEFAULT_MODEL: \"Represent this sentence for searching relevant passages: \"}\nEMBED_BATCH_SIZE = 32\n# ---------------------------------------------------------------------------\n# Chunking\n# ---------------------------------------------------------------------------\nCHUNKERS = (\"section\", \"fixed\")\nDEFAULT_CHUNKER = \"section\"\nMAX_CHUNK_CHARS = 1200        # section chunks longer than this are sub-split",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "QUERY_INSTRUCTIONS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "QUERY_INSTRUCTIONS = {DEFAULT_MODEL: \"Represent this sentence for searching relevant passages: \"}\nEMBED_BATCH_SIZE = 32\n# ---------------------------------------------------------------------------\n# Chunking\n# ---------------------------------------------------------------------------\nCHUNKERS = (\"section\", \"fixed\")\nDEFAULT_CHUNKER = \"section\"\nMAX_CHUNK_CHARS = 1200        # section chunks longer than this are sub-split\nCHUNK_OVERLAP = 150\nFIXED_CHUNK_CHARS = 800       # 'fixed' baseline strategy",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "EMBED_BATCH_SIZE",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "EMBED_BATCH_SIZE = 32\n# ---------------------------------------------------------------------------\n# Chunking\n# ---------------------------------------------------------------------------\nCHUNKERS = (\"section\", \"fixed\")\nDEFAULT_CHUNKER = \"section\"\nMAX_CHUNK_CHARS = 1200        # section chunks longer than this are sub-split\nCHUNK_OVERLAP = 150\nFIXED_CHUNK_CHARS = 800       # 'fixed' baseline strategy\nFIXED_CHUNK_OVERLAP = 100",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CHUNKERS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "CHUNKERS = (\"section\", \"fixed\")\nDEFAULT_CHUNKER = \"section\"\nMAX_CHUNK_CHARS = 1200        # section chunks longer than this are sub-split\nCHUNK_OVERLAP = 150\nFIXED_CHUNK_CHARS = 800       # 'fixed' baseline strategy\nFIXED_CHUNK_OVERLAP = 100\nMIN_CHUNK_CHARS = 30          # drop tiny fragments\nMAX_HEADER_LEN = 45           # longer lines are never treated as section headers\n# Header line (lower-cased) -> canonical section\nSECTION_ALIASES: dict[str, list[str]] = {",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_CHUNKER",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "DEFAULT_CHUNKER = \"section\"\nMAX_CHUNK_CHARS = 1200        # section chunks longer than this are sub-split\nCHUNK_OVERLAP = 150\nFIXED_CHUNK_CHARS = 800       # 'fixed' baseline strategy\nFIXED_CHUNK_OVERLAP = 100\nMIN_CHUNK_CHARS = 30          # drop tiny fragments\nMAX_HEADER_LEN = 45           # longer lines are never treated as section headers\n# Header line (lower-cased) -> canonical section\nSECTION_ALIASES: dict[str, list[str]] = {\n    \"summary\": [\"summary\", \"professional summary\", \"executive summary\", \"career overview\", \"profile\",",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_CHUNK_CHARS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "MAX_CHUNK_CHARS = 1200        # section chunks longer than this are sub-split\nCHUNK_OVERLAP = 150\nFIXED_CHUNK_CHARS = 800       # 'fixed' baseline strategy\nFIXED_CHUNK_OVERLAP = 100\nMIN_CHUNK_CHARS = 30          # drop tiny fragments\nMAX_HEADER_LEN = 45           # longer lines are never treated as section headers\n# Header line (lower-cased) -> canonical section\nSECTION_ALIASES: dict[str, list[str]] = {\n    \"summary\": [\"summary\", \"professional summary\", \"executive summary\", \"career overview\", \"profile\",\n                \"professional profile\", \"objective\", \"career objective\", \"overview\", \"about me\", \"career focus\",",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CHUNK_OVERLAP",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "CHUNK_OVERLAP = 150\nFIXED_CHUNK_CHARS = 800       # 'fixed' baseline strategy\nFIXED_CHUNK_OVERLAP = 100\nMIN_CHUNK_CHARS = 30          # drop tiny fragments\nMAX_HEADER_LEN = 45           # longer lines are never treated as section headers\n# Header line (lower-cased) -> canonical section\nSECTION_ALIASES: dict[str, list[str]] = {\n    \"summary\": [\"summary\", \"professional summary\", \"executive summary\", \"career overview\", \"profile\",\n                \"professional profile\", \"objective\", \"career objective\", \"overview\", \"about me\", \"career focus\",\n                \"executive profile\", \"summary of qualifications\"],",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FIXED_CHUNK_CHARS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "FIXED_CHUNK_CHARS = 800       # 'fixed' baseline strategy\nFIXED_CHUNK_OVERLAP = 100\nMIN_CHUNK_CHARS = 30          # drop tiny fragments\nMAX_HEADER_LEN = 45           # longer lines are never treated as section headers\n# Header line (lower-cased) -> canonical section\nSECTION_ALIASES: dict[str, list[str]] = {\n    \"summary\": [\"summary\", \"professional summary\", \"executive summary\", \"career overview\", \"profile\",\n                \"professional profile\", \"objective\", \"career objective\", \"overview\", \"about me\", \"career focus\",\n                \"executive profile\", \"summary of qualifications\"],\n    \"skills\": [\"skills\", \"technical skills\", \"core qualifications\", \"qualifications\", \"highlights\",",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FIXED_CHUNK_OVERLAP",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "FIXED_CHUNK_OVERLAP = 100\nMIN_CHUNK_CHARS = 30          # drop tiny fragments\nMAX_HEADER_LEN = 45           # longer lines are never treated as section headers\n# Header line (lower-cased) -> canonical section\nSECTION_ALIASES: dict[str, list[str]] = {\n    \"summary\": [\"summary\", \"professional summary\", \"executive summary\", \"career overview\", \"profile\",\n                \"professional profile\", \"objective\", \"career objective\", \"overview\", \"about me\", \"career focus\",\n                \"executive profile\", \"summary of qualifications\"],\n    \"skills\": [\"skills\", \"technical skills\", \"core qualifications\", \"qualifications\", \"highlights\",\n               \"skill highlights\", \"core competencies\", \"competencies\", \"areas of expertise\", \"expertise\",",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MIN_CHUNK_CHARS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "MIN_CHUNK_CHARS = 30          # drop tiny fragments\nMAX_HEADER_LEN = 45           # longer lines are never treated as section headers\n# Header line (lower-cased) -> canonical section\nSECTION_ALIASES: dict[str, list[str]] = {\n    \"summary\": [\"summary\", \"professional summary\", \"executive summary\", \"career overview\", \"profile\",\n                \"professional profile\", \"objective\", \"career objective\", \"overview\", \"about me\", \"career focus\",\n                \"executive profile\", \"summary of qualifications\"],\n    \"skills\": [\"skills\", \"technical skills\", \"core qualifications\", \"qualifications\", \"highlights\",\n               \"skill highlights\", \"core competencies\", \"competencies\", \"areas of expertise\", \"expertise\",\n               \"computer skills\", \"key skills\", \"skills summary\", \"strengths\"],",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_HEADER_LEN",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "MAX_HEADER_LEN = 45           # longer lines are never treated as section headers\n# Header line (lower-cased) -> canonical section\nSECTION_ALIASES: dict[str, list[str]] = {\n    \"summary\": [\"summary\", \"professional summary\", \"executive summary\", \"career overview\", \"profile\",\n                \"professional profile\", \"objective\", \"career objective\", \"overview\", \"about me\", \"career focus\",\n                \"executive profile\", \"summary of qualifications\"],\n    \"skills\": [\"skills\", \"technical skills\", \"core qualifications\", \"qualifications\", \"highlights\",\n               \"skill highlights\", \"core competencies\", \"competencies\", \"areas of expertise\", \"expertise\",\n               \"computer skills\", \"key skills\", \"skills summary\", \"strengths\"],\n    \"experience\": [\"experience\", \"work experience\", \"professional experience\", \"work history\",",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MONTHS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "MONTHS = {m: i + 1 for i, m in enumerate(\n    [\"jan\", \"feb\", \"mar\", \"apr\", \"may\", \"jun\", \"jul\", \"aug\", \"sep\", \"oct\", \"nov\", \"dec\"])}\nMAX_CAREER_YEARS = 45         # sanity cap for date ranges and \"N years\" mentions\nSKILL_YEARS_WINDOW = (25, 60)  # chars before / after \"N years\" searched for the skill it applies to\nHEADLINE_MAX_CHARS = 80\nEDU_LINE_MAX_CHARS = 120\nNOT_A_FIELD = {\"degree\", \"status\", \"city\", \"state\"}\nDEGREES = [  # (level, label, regex) highest first\n    (5, \"PhD\", r\"ph\\.?\\s?d|doctor(?:ate| of)\"),\n    (4, \"Master\", r\"master'?s?|m\\.?b\\.?a|m\\.s\\.|m\\.a\\.|msc|m\\.ed|mfa\"),",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MAX_CAREER_YEARS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "MAX_CAREER_YEARS = 45         # sanity cap for date ranges and \"N years\" mentions\nSKILL_YEARS_WINDOW = (25, 60)  # chars before / after \"N years\" searched for the skill it applies to\nHEADLINE_MAX_CHARS = 80\nEDU_LINE_MAX_CHARS = 120\nNOT_A_FIELD = {\"degree\", \"status\", \"city\", \"state\"}\nDEGREES = [  # (level, label, regex) highest first\n    (5, \"PhD\", r\"ph\\.?\\s?d|doctor(?:ate| of)\"),\n    (4, \"Master\", r\"master'?s?|m\\.?b\\.?a|m\\.s\\.|m\\.a\\.|msc|m\\.ed|mfa\"),\n    (3, \"Bachelor\", r\"bachelor'?s?|b\\.?s\\.?c?|b\\.a\\.?|bba|b\\.tech|b\\.e\\.\"),\n    (2, \"Associate\", r\"associate'?s? (?:degree|of)|a\\.a\\.s?|aas|associate\"),",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SKILL_YEARS_WINDOW",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "SKILL_YEARS_WINDOW = (25, 60)  # chars before / after \"N years\" searched for the skill it applies to\nHEADLINE_MAX_CHARS = 80\nEDU_LINE_MAX_CHARS = 120\nNOT_A_FIELD = {\"degree\", \"status\", \"city\", \"state\"}\nDEGREES = [  # (level, label, regex) highest first\n    (5, \"PhD\", r\"ph\\.?\\s?d|doctor(?:ate| of)\"),\n    (4, \"Master\", r\"master'?s?|m\\.?b\\.?a|m\\.s\\.|m\\.a\\.|msc|m\\.ed|mfa\"),\n    (3, \"Bachelor\", r\"bachelor'?s?|b\\.?s\\.?c?|b\\.a\\.?|bba|b\\.tech|b\\.e\\.\"),\n    (2, \"Associate\", r\"associate'?s? (?:degree|of)|a\\.a\\.s?|aas|associate\"),\n    (1, \"Diploma/Certificate\", r\"high school diploma|diploma|ged|certificate\"),",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "HEADLINE_MAX_CHARS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "HEADLINE_MAX_CHARS = 80\nEDU_LINE_MAX_CHARS = 120\nNOT_A_FIELD = {\"degree\", \"status\", \"city\", \"state\"}\nDEGREES = [  # (level, label, regex) highest first\n    (5, \"PhD\", r\"ph\\.?\\s?d|doctor(?:ate| of)\"),\n    (4, \"Master\", r\"master'?s?|m\\.?b\\.?a|m\\.s\\.|m\\.a\\.|msc|m\\.ed|mfa\"),\n    (3, \"Bachelor\", r\"bachelor'?s?|b\\.?s\\.?c?|b\\.a\\.?|bba|b\\.tech|b\\.e\\.\"),\n    (2, \"Associate\", r\"associate'?s? (?:degree|of)|a\\.a\\.s?|aas|associate\"),\n    (1, \"Diploma/Certificate\", r\"high school diploma|diploma|ged|certificate\"),\n]",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "EDU_LINE_MAX_CHARS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "EDU_LINE_MAX_CHARS = 120\nNOT_A_FIELD = {\"degree\", \"status\", \"city\", \"state\"}\nDEGREES = [  # (level, label, regex) highest first\n    (5, \"PhD\", r\"ph\\.?\\s?d|doctor(?:ate| of)\"),\n    (4, \"Master\", r\"master'?s?|m\\.?b\\.?a|m\\.s\\.|m\\.a\\.|msc|m\\.ed|mfa\"),\n    (3, \"Bachelor\", r\"bachelor'?s?|b\\.?s\\.?c?|b\\.a\\.?|bba|b\\.tech|b\\.e\\.\"),\n    (2, \"Associate\", r\"associate'?s? (?:degree|of)|a\\.a\\.s?|aas|associate\"),\n    (1, \"Diploma/Certificate\", r\"high school diploma|diploma|ged|certificate\"),\n]\nJD_MIN_DEGREE_LEVEL = 3       # JD degree requirements below Bachelor are ignored",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "NOT_A_FIELD",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "NOT_A_FIELD = {\"degree\", \"status\", \"city\", \"state\"}\nDEGREES = [  # (level, label, regex) highest first\n    (5, \"PhD\", r\"ph\\.?\\s?d|doctor(?:ate| of)\"),\n    (4, \"Master\", r\"master'?s?|m\\.?b\\.?a|m\\.s\\.|m\\.a\\.|msc|m\\.ed|mfa\"),\n    (3, \"Bachelor\", r\"bachelor'?s?|b\\.?s\\.?c?|b\\.a\\.?|bba|b\\.tech|b\\.e\\.\"),\n    (2, \"Associate\", r\"associate'?s? (?:degree|of)|a\\.a\\.s?|aas|associate\"),\n    (1, \"Diploma/Certificate\", r\"high school diploma|diploma|ged|certificate\"),\n]\nJD_MIN_DEGREE_LEVEL = 3       # JD degree requirements below Bachelor are ignored\n# ---------------------------------------------------------------------------",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEGREES",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "DEGREES = [  # (level, label, regex) highest first\n    (5, \"PhD\", r\"ph\\.?\\s?d|doctor(?:ate| of)\"),\n    (4, \"Master\", r\"master'?s?|m\\.?b\\.?a|m\\.s\\.|m\\.a\\.|msc|m\\.ed|mfa\"),\n    (3, \"Bachelor\", r\"bachelor'?s?|b\\.?s\\.?c?|b\\.a\\.?|bba|b\\.tech|b\\.e\\.\"),\n    (2, \"Associate\", r\"associate'?s? (?:degree|of)|a\\.a\\.s?|aas|associate\"),\n    (1, \"Diploma/Certificate\", r\"high school diploma|diploma|ged|certificate\"),\n]\nJD_MIN_DEGREE_LEVEL = 3       # JD degree requirements below Bachelor are ignored\n# ---------------------------------------------------------------------------\n# Matching & scoring",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "JD_MIN_DEGREE_LEVEL",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "JD_MIN_DEGREE_LEVEL = 3       # JD degree requirements below Bachelor are ignored\n# ---------------------------------------------------------------------------\n# Matching & scoring\n# ---------------------------------------------------------------------------\nDEFAULT_K = 10\nQUERY_K = 5                   # default hits for `main.py query`\nMODES = (\"hybrid\", \"semantic\", \"keyword\")\n# Score = 100 * sum(weight * component); components are all in [0, 1]\nDEFAULT_WEIGHTS = {\"semantic\": 0.55, \"skills\": 0.25, \"keyword\": 0.10, \"qualification\": 0.10}\n# bge-small cosine similarities between a JD and resume chunks fall roughly in",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_K",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "DEFAULT_K = 10\nQUERY_K = 5                   # default hits for `main.py query`\nMODES = (\"hybrid\", \"semantic\", \"keyword\")\n# Score = 100 * sum(weight * component); components are all in [0, 1]\nDEFAULT_WEIGHTS = {\"semantic\": 0.55, \"skills\": 0.25, \"keyword\": 0.10, \"qualification\": 0.10}\n# bge-small cosine similarities between a JD and resume chunks fall roughly in\n# [0.50, 0.80]; this maps them onto [0, 1] so scores are comparable across queries.\nSEMANTIC_FLOOR, SEMANTIC_CEIL = 0.50, 0.80\nKEYWORD_MODE_BM25_WEIGHT = 0.5  # keyword-only ablation: 0.5 * BM25 + 0.5 * skill coverage\nSEMANTIC_MAX_WEIGHT = 0.7     # resume semantic = 0.7 * best chunk + 0.3 * mean(top-3 chunks)",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "QUERY_K",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "QUERY_K = 5                   # default hits for `main.py query`\nMODES = (\"hybrid\", \"semantic\", \"keyword\")\n# Score = 100 * sum(weight * component); components are all in [0, 1]\nDEFAULT_WEIGHTS = {\"semantic\": 0.55, \"skills\": 0.25, \"keyword\": 0.10, \"qualification\": 0.10}\n# bge-small cosine similarities between a JD and resume chunks fall roughly in\n# [0.50, 0.80]; this maps them onto [0, 1] so scores are comparable across queries.\nSEMANTIC_FLOOR, SEMANTIC_CEIL = 0.50, 0.80\nKEYWORD_MODE_BM25_WEIGHT = 0.5  # keyword-only ablation: 0.5 * BM25 + 0.5 * skill coverage\nSEMANTIC_MAX_WEIGHT = 0.7     # resume semantic = 0.7 * best chunk + 0.3 * mean(top-3 chunks)\nSEMANTIC_TOP_N = 3",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MODES",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "MODES = (\"hybrid\", \"semantic\", \"keyword\")\n# Score = 100 * sum(weight * component); components are all in [0, 1]\nDEFAULT_WEIGHTS = {\"semantic\": 0.55, \"skills\": 0.25, \"keyword\": 0.10, \"qualification\": 0.10}\n# bge-small cosine similarities between a JD and resume chunks fall roughly in\n# [0.50, 0.80]; this maps them onto [0, 1] so scores are comparable across queries.\nSEMANTIC_FLOOR, SEMANTIC_CEIL = 0.50, 0.80\nKEYWORD_MODE_BM25_WEIGHT = 0.5  # keyword-only ablation: 0.5 * BM25 + 0.5 * skill coverage\nSEMANTIC_MAX_WEIGHT = 0.7     # resume semantic = 0.7 * best chunk + 0.3 * mean(top-3 chunks)\nSEMANTIC_TOP_N = 3\nCANDIDATE_CHUNKS = 100        # chunks pulled from FAISS and from BM25 before per-resume aggregation",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_WEIGHTS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "DEFAULT_WEIGHTS = {\"semantic\": 0.55, \"skills\": 0.25, \"keyword\": 0.10, \"qualification\": 0.10}\n# bge-small cosine similarities between a JD and resume chunks fall roughly in\n# [0.50, 0.80]; this maps them onto [0, 1] so scores are comparable across queries.\nSEMANTIC_FLOOR, SEMANTIC_CEIL = 0.50, 0.80\nKEYWORD_MODE_BM25_WEIGHT = 0.5  # keyword-only ablation: 0.5 * BM25 + 0.5 * skill coverage\nSEMANTIC_MAX_WEIGHT = 0.7     # resume semantic = 0.7 * best chunk + 0.3 * mean(top-3 chunks)\nSEMANTIC_TOP_N = 3\nCANDIDATE_CHUNKS = 100        # chunks pulled from FAISS and from BM25 before per-resume aggregation\nMUST_SKILL_BOOST = 2          # must-have skills repeated in the BM25 query\n# Skill-coverage weights",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "KEYWORD_MODE_BM25_WEIGHT",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "KEYWORD_MODE_BM25_WEIGHT = 0.5  # keyword-only ablation: 0.5 * BM25 + 0.5 * skill coverage\nSEMANTIC_MAX_WEIGHT = 0.7     # resume semantic = 0.7 * best chunk + 0.3 * mean(top-3 chunks)\nSEMANTIC_TOP_N = 3\nCANDIDATE_CHUNKS = 100        # chunks pulled from FAISS and from BM25 before per-resume aggregation\nMUST_SKILL_BOOST = 2          # must-have skills repeated in the BM25 query\n# Skill-coverage weights\nMUST_SKILL_WEIGHT = 2.0\nREQUIRED_SKILL_WEIGHT = 1.0\nPREFERRED_SKILL_WEIGHT = 0.5\n# Qualification fit = EXP_FIT_WEIGHT * experience fit + (1 - EXP_FIT_WEIGHT) * degree fit",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SEMANTIC_MAX_WEIGHT",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "SEMANTIC_MAX_WEIGHT = 0.7     # resume semantic = 0.7 * best chunk + 0.3 * mean(top-3 chunks)\nSEMANTIC_TOP_N = 3\nCANDIDATE_CHUNKS = 100        # chunks pulled from FAISS and from BM25 before per-resume aggregation\nMUST_SKILL_BOOST = 2          # must-have skills repeated in the BM25 query\n# Skill-coverage weights\nMUST_SKILL_WEIGHT = 2.0\nREQUIRED_SKILL_WEIGHT = 1.0\nPREFERRED_SKILL_WEIGHT = 0.5\n# Qualification fit = EXP_FIT_WEIGHT * experience fit + (1 - EXP_FIT_WEIGHT) * degree fit\nEXP_FIT_WEIGHT = 0.7",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SEMANTIC_TOP_N",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "SEMANTIC_TOP_N = 3\nCANDIDATE_CHUNKS = 100        # chunks pulled from FAISS and from BM25 before per-resume aggregation\nMUST_SKILL_BOOST = 2          # must-have skills repeated in the BM25 query\n# Skill-coverage weights\nMUST_SKILL_WEIGHT = 2.0\nREQUIRED_SKILL_WEIGHT = 1.0\nPREFERRED_SKILL_WEIGHT = 0.5\n# Qualification fit = EXP_FIT_WEIGHT * experience fit + (1 - EXP_FIT_WEIGHT) * degree fit\nEXP_FIT_WEIGHT = 0.7\nDEGREE_FIT_LOWER = 0.5        # has a degree, but below the one asked for",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CANDIDATE_CHUNKS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "CANDIDATE_CHUNKS = 100        # chunks pulled from FAISS and from BM25 before per-resume aggregation\nMUST_SKILL_BOOST = 2          # must-have skills repeated in the BM25 query\n# Skill-coverage weights\nMUST_SKILL_WEIGHT = 2.0\nREQUIRED_SKILL_WEIGHT = 1.0\nPREFERRED_SKILL_WEIGHT = 0.5\n# Qualification fit = EXP_FIT_WEIGHT * experience fit + (1 - EXP_FIT_WEIGHT) * degree fit\nEXP_FIT_WEIGHT = 0.7\nDEGREE_FIT_LOWER = 0.5        # has a degree, but below the one asked for\nDEGREE_FIT_NONE = 0.25        # no degree found",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MUST_SKILL_BOOST",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "MUST_SKILL_BOOST = 2          # must-have skills repeated in the BM25 query\n# Skill-coverage weights\nMUST_SKILL_WEIGHT = 2.0\nREQUIRED_SKILL_WEIGHT = 1.0\nPREFERRED_SKILL_WEIGHT = 0.5\n# Qualification fit = EXP_FIT_WEIGHT * experience fit + (1 - EXP_FIT_WEIGHT) * degree fit\nEXP_FIT_WEIGHT = 0.7\nDEGREE_FIT_LOWER = 0.5        # has a degree, but below the one asked for\nDEGREE_FIT_NONE = 0.25        # no degree found\n# Reasoning / output",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MUST_SKILL_WEIGHT",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "MUST_SKILL_WEIGHT = 2.0\nREQUIRED_SKILL_WEIGHT = 1.0\nPREFERRED_SKILL_WEIGHT = 0.5\n# Qualification fit = EXP_FIT_WEIGHT * experience fit + (1 - EXP_FIT_WEIGHT) * degree fit\nEXP_FIT_WEIGHT = 0.7\nDEGREE_FIT_LOWER = 0.5        # has a degree, but below the one asked for\nDEGREE_FIT_NONE = 0.25        # no degree found\n# Reasoning / output\nSTRONG_SEMANTIC, MODERATE_SEMANTIC = 0.6, 0.35\nN_EXCERPTS = 3",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "REQUIRED_SKILL_WEIGHT",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "REQUIRED_SKILL_WEIGHT = 1.0\nPREFERRED_SKILL_WEIGHT = 0.5\n# Qualification fit = EXP_FIT_WEIGHT * experience fit + (1 - EXP_FIT_WEIGHT) * degree fit\nEXP_FIT_WEIGHT = 0.7\nDEGREE_FIT_LOWER = 0.5        # has a degree, but below the one asked for\nDEGREE_FIT_NONE = 0.25        # no degree found\n# Reasoning / output\nSTRONG_SEMANTIC, MODERATE_SEMANTIC = 0.6, 0.35\nN_EXCERPTS = 3\nEXCERPT_MAX_CHARS = 300",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "PREFERRED_SKILL_WEIGHT",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "PREFERRED_SKILL_WEIGHT = 0.5\n# Qualification fit = EXP_FIT_WEIGHT * experience fit + (1 - EXP_FIT_WEIGHT) * degree fit\nEXP_FIT_WEIGHT = 0.7\nDEGREE_FIT_LOWER = 0.5        # has a degree, but below the one asked for\nDEGREE_FIT_NONE = 0.25        # no degree found\n# Reasoning / output\nSTRONG_SEMANTIC, MODERATE_SEMANTIC = 0.6, 0.35\nN_EXCERPTS = 3\nEXCERPT_MAX_CHARS = 300\nEXCERPT_MIN_LINE_CHARS = 25",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "EXP_FIT_WEIGHT",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "EXP_FIT_WEIGHT = 0.7\nDEGREE_FIT_LOWER = 0.5        # has a degree, but below the one asked for\nDEGREE_FIT_NONE = 0.25        # no degree found\n# Reasoning / output\nSTRONG_SEMANTIC, MODERATE_SEMANTIC = 0.6, 0.35\nN_EXCERPTS = 3\nEXCERPT_MAX_CHARS = 300\nEXCERPT_MIN_LINE_CHARS = 25\nREASONING_MAX_SKILLS = 6\nREASONING_MAX_MISSING = 4",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEGREE_FIT_LOWER",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "DEGREE_FIT_LOWER = 0.5        # has a degree, but below the one asked for\nDEGREE_FIT_NONE = 0.25        # no degree found\n# Reasoning / output\nSTRONG_SEMANTIC, MODERATE_SEMANTIC = 0.6, 0.35\nN_EXCERPTS = 3\nEXCERPT_MAX_CHARS = 300\nEXCERPT_MIN_LINE_CHARS = 25\nREASONING_MAX_SKILLS = 6\nREASONING_MAX_MISSING = 4\nJD_SKILL_YEARS_WINDOW = 60    # chars after \"N years\" in a JD searched for the skill it applies to",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DEGREE_FIT_NONE",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "DEGREE_FIT_NONE = 0.25        # no degree found\n# Reasoning / output\nSTRONG_SEMANTIC, MODERATE_SEMANTIC = 0.6, 0.35\nN_EXCERPTS = 3\nEXCERPT_MAX_CHARS = 300\nEXCERPT_MIN_LINE_CHARS = 25\nREASONING_MAX_SKILLS = 6\nREASONING_MAX_MISSING = 4\nJD_SKILL_YEARS_WINDOW = 60    # chars after \"N years\" in a JD searched for the skill it applies to\nBM25_STOPWORDS = set(\"\"\"a an and the of to in for on with or at by from as is are be we our you your will",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "N_EXCERPTS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "N_EXCERPTS = 3\nEXCERPT_MAX_CHARS = 300\nEXCERPT_MIN_LINE_CHARS = 25\nREASONING_MAX_SKILLS = 6\nREASONING_MAX_MISSING = 4\nJD_SKILL_YEARS_WINDOW = 60    # chars after \"N years\" in a JD searched for the skill it applies to\nBM25_STOPWORDS = set(\"\"\"a an and the of to in for on with or at by from as is are be we our you your will\nthis that it its into across using use per who all any must have has nice plus preferred required\nrequirements responsibilities experience years year strong\"\"\".split())\n# ---------------------------------------------------------------------------",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "EXCERPT_MAX_CHARS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "EXCERPT_MAX_CHARS = 300\nEXCERPT_MIN_LINE_CHARS = 25\nREASONING_MAX_SKILLS = 6\nREASONING_MAX_MISSING = 4\nJD_SKILL_YEARS_WINDOW = 60    # chars after \"N years\" in a JD searched for the skill it applies to\nBM25_STOPWORDS = set(\"\"\"a an and the of to in for on with or at by from as is are be we our you your will\nthis that it its into across using use per who all any must have has nice plus preferred required\nrequirements responsibilities experience years year strong\"\"\".split())\n# ---------------------------------------------------------------------------\n# Evaluation",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "EXCERPT_MIN_LINE_CHARS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "EXCERPT_MIN_LINE_CHARS = 25\nREASONING_MAX_SKILLS = 6\nREASONING_MAX_MISSING = 4\nJD_SKILL_YEARS_WINDOW = 60    # chars after \"N years\" in a JD searched for the skill it applies to\nBM25_STOPWORDS = set(\"\"\"a an and the of to in for on with or at by from as is are be we our you your will\nthis that it its into across using use per who all any must have has nice plus preferred required\nrequirements responsibilities experience years year strong\"\"\".split())\n# ---------------------------------------------------------------------------\n# Evaluation\n# ---------------------------------------------------------------------------",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "REASONING_MAX_SKILLS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "REASONING_MAX_SKILLS = 6\nREASONING_MAX_MISSING = 4\nJD_SKILL_YEARS_WINDOW = 60    # chars after \"N years\" in a JD searched for the skill it applies to\nBM25_STOPWORDS = set(\"\"\"a an and the of to in for on with or at by from as is are be we our you your will\nthis that it its into across using use per who all any must have has nice plus preferred required\nrequirements responsibilities experience years year strong\"\"\".split())\n# ---------------------------------------------------------------------------\n# Evaluation\n# ---------------------------------------------------------------------------\nMETRICS = [\"P@5\", \"P@10\", \"R@10\", \"MRR\", \"nDCG@10\"]",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "REASONING_MAX_MISSING",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "REASONING_MAX_MISSING = 4\nJD_SKILL_YEARS_WINDOW = 60    # chars after \"N years\" in a JD searched for the skill it applies to\nBM25_STOPWORDS = set(\"\"\"a an and the of to in for on with or at by from as is are be we our you your will\nthis that it its into across using use per who all any must have has nice plus preferred required\nrequirements responsibilities experience years year strong\"\"\".split())\n# ---------------------------------------------------------------------------\n# Evaluation\n# ---------------------------------------------------------------------------\nMETRICS = [\"P@5\", \"P@10\", \"R@10\", \"MRR\", \"nDCG@10\"]\nEVAL_K = 10",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "JD_SKILL_YEARS_WINDOW",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "JD_SKILL_YEARS_WINDOW = 60    # chars after \"N years\" in a JD searched for the skill it applies to\nBM25_STOPWORDS = set(\"\"\"a an and the of to in for on with or at by from as is are be we our you your will\nthis that it its into across using use per who all any must have has nice plus preferred required\nrequirements responsibilities experience years year strong\"\"\".split())\n# ---------------------------------------------------------------------------\n# Evaluation\n# ---------------------------------------------------------------------------\nMETRICS = [\"P@5\", \"P@10\", \"R@10\", \"MRR\", \"nDCG@10\"]\nEVAL_K = 10\nRELEVANT_GRADE = 1            # grade >= this counts as relevant for P/R/MRR",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "BM25_STOPWORDS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "BM25_STOPWORDS = set(\"\"\"a an and the of to in for on with or at by from as is are be we our you your will\nthis that it its into across using use per who all any must have has nice plus preferred required\nrequirements responsibilities experience years year strong\"\"\".split())\n# ---------------------------------------------------------------------------\n# Evaluation\n# ---------------------------------------------------------------------------\nMETRICS = [\"P@5\", \"P@10\", \"R@10\", \"MRR\", \"nDCG@10\"]\nEVAL_K = 10\nRELEVANT_GRADE = 1            # grade >= this counts as relevant for P/R/MRR\nLATENCY_RUNS = 50",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "METRICS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "METRICS = [\"P@5\", \"P@10\", \"R@10\", \"MRR\", \"nDCG@10\"]\nEVAL_K = 10\nRELEVANT_GRADE = 1            # grade >= this counts as relevant for P/R/MRR\nLATENCY_RUNS = 50\n# ---------------------------------------------------------------------------\n# Dataset download (scripts/fetch_resumes.py)\n# ---------------------------------------------------------------------------\nHF_DATASET = \"opensporks/resumes\"  # HuggingFace mirror of Kaggle snehaanbhawal/resume-dataset (CC0)\nHF_TREE_URL = f\"https://huggingface.co/api/datasets/{HF_DATASET}/tree/main/data/data/{{cat}}\"\nHF_FILE_URL = f\"https://huggingface.co/datasets/{HF_DATASET}/resolve/main/{{path}}\"",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "EVAL_K",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "EVAL_K = 10\nRELEVANT_GRADE = 1            # grade >= this counts as relevant for P/R/MRR\nLATENCY_RUNS = 50\n# ---------------------------------------------------------------------------\n# Dataset download (scripts/fetch_resumes.py)\n# ---------------------------------------------------------------------------\nHF_DATASET = \"opensporks/resumes\"  # HuggingFace mirror of Kaggle snehaanbhawal/resume-dataset (CC0)\nHF_TREE_URL = f\"https://huggingface.co/api/datasets/{HF_DATASET}/tree/main/data/data/{{cat}}\"\nHF_FILE_URL = f\"https://huggingface.co/datasets/{HF_DATASET}/resolve/main/{{path}}\"\nFETCH_SEED = 42",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "RELEVANT_GRADE",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "RELEVANT_GRADE = 1            # grade >= this counts as relevant for P/R/MRR\nLATENCY_RUNS = 50\n# ---------------------------------------------------------------------------\n# Dataset download (scripts/fetch_resumes.py)\n# ---------------------------------------------------------------------------\nHF_DATASET = \"opensporks/resumes\"  # HuggingFace mirror of Kaggle snehaanbhawal/resume-dataset (CC0)\nHF_TREE_URL = f\"https://huggingface.co/api/datasets/{HF_DATASET}/tree/main/data/data/{{cat}}\"\nHF_FILE_URL = f\"https://huggingface.co/datasets/{HF_DATASET}/resolve/main/{{path}}\"\nFETCH_SEED = 42\nFETCH_PER_CATEGORY = 5",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LATENCY_RUNS",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "LATENCY_RUNS = 50\n# ---------------------------------------------------------------------------\n# Dataset download (scripts/fetch_resumes.py)\n# ---------------------------------------------------------------------------\nHF_DATASET = \"opensporks/resumes\"  # HuggingFace mirror of Kaggle snehaanbhawal/resume-dataset (CC0)\nHF_TREE_URL = f\"https://huggingface.co/api/datasets/{HF_DATASET}/tree/main/data/data/{{cat}}\"\nHF_FILE_URL = f\"https://huggingface.co/datasets/{HF_DATASET}/resolve/main/{{path}}\"\nFETCH_SEED = 42\nFETCH_PER_CATEGORY = 5\nFETCH_CATEGORIES = [",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "HF_DATASET",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "HF_DATASET = \"opensporks/resumes\"  # HuggingFace mirror of Kaggle snehaanbhawal/resume-dataset (CC0)\nHF_TREE_URL = f\"https://huggingface.co/api/datasets/{HF_DATASET}/tree/main/data/data/{{cat}}\"\nHF_FILE_URL = f\"https://huggingface.co/datasets/{HF_DATASET}/resolve/main/{{path}}\"\nFETCH_SEED = 42\nFETCH_PER_CATEGORY = 5\nFETCH_CATEGORIES = [\n    \"INFORMATION-TECHNOLOGY\", \"ENGINEERING\", \"HR\", \"FINANCE\", \"ACCOUNTANT\",\n    \"SALES\", \"DESIGNER\", \"HEALTHCARE\", \"TEACHER\", \"BANKING\",\n]\n# Synthetic names (source resumes are anonymized)",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "HF_TREE_URL",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "HF_TREE_URL = f\"https://huggingface.co/api/datasets/{HF_DATASET}/tree/main/data/data/{{cat}}\"\nHF_FILE_URL = f\"https://huggingface.co/datasets/{HF_DATASET}/resolve/main/{{path}}\"\nFETCH_SEED = 42\nFETCH_PER_CATEGORY = 5\nFETCH_CATEGORIES = [\n    \"INFORMATION-TECHNOLOGY\", \"ENGINEERING\", \"HR\", \"FINANCE\", \"ACCOUNTANT\",\n    \"SALES\", \"DESIGNER\", \"HEALTHCARE\", \"TEACHER\", \"BANKING\",\n]\n# Synthetic names (source resumes are anonymized)\nFIRST_NAMES = [\"James\", \"Maria\", \"Ahmed\", \"Priya\", \"Chen\", \"Sofia\", \"Daniel\", \"Aisha\", \"Lucas\", \"Emma\",",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "HF_FILE_URL",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "HF_FILE_URL = f\"https://huggingface.co/datasets/{HF_DATASET}/resolve/main/{{path}}\"\nFETCH_SEED = 42\nFETCH_PER_CATEGORY = 5\nFETCH_CATEGORIES = [\n    \"INFORMATION-TECHNOLOGY\", \"ENGINEERING\", \"HR\", \"FINANCE\", \"ACCOUNTANT\",\n    \"SALES\", \"DESIGNER\", \"HEALTHCARE\", \"TEACHER\", \"BANKING\",\n]\n# Synthetic names (source resumes are anonymized)\nFIRST_NAMES = [\"James\", \"Maria\", \"Ahmed\", \"Priya\", \"Chen\", \"Sofia\", \"Daniel\", \"Aisha\", \"Lucas\", \"Emma\",\n               \"Omar\", \"Hannah\", \"Ravi\", \"Grace\", \"Mateo\", \"Fatima\", \"Noah\", \"Yuki\", \"Ethan\", \"Zara\",",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FETCH_SEED",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "FETCH_SEED = 42\nFETCH_PER_CATEGORY = 5\nFETCH_CATEGORIES = [\n    \"INFORMATION-TECHNOLOGY\", \"ENGINEERING\", \"HR\", \"FINANCE\", \"ACCOUNTANT\",\n    \"SALES\", \"DESIGNER\", \"HEALTHCARE\", \"TEACHER\", \"BANKING\",\n]\n# Synthetic names (source resumes are anonymized)\nFIRST_NAMES = [\"James\", \"Maria\", \"Ahmed\", \"Priya\", \"Chen\", \"Sofia\", \"Daniel\", \"Aisha\", \"Lucas\", \"Emma\",\n               \"Omar\", \"Hannah\", \"Ravi\", \"Grace\", \"Mateo\", \"Fatima\", \"Noah\", \"Yuki\", \"Ethan\", \"Zara\",\n               \"Leo\", \"Amara\", \"Ivan\", \"Chloe\", \"Samuel\", \"Leila\", \"Kenji\", \"Olivia\", \"Diego\", \"Nadia\",",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FETCH_PER_CATEGORY",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "FETCH_PER_CATEGORY = 5\nFETCH_CATEGORIES = [\n    \"INFORMATION-TECHNOLOGY\", \"ENGINEERING\", \"HR\", \"FINANCE\", \"ACCOUNTANT\",\n    \"SALES\", \"DESIGNER\", \"HEALTHCARE\", \"TEACHER\", \"BANKING\",\n]\n# Synthetic names (source resumes are anonymized)\nFIRST_NAMES = [\"James\", \"Maria\", \"Ahmed\", \"Priya\", \"Chen\", \"Sofia\", \"Daniel\", \"Aisha\", \"Lucas\", \"Emma\",\n               \"Omar\", \"Hannah\", \"Ravi\", \"Grace\", \"Mateo\", \"Fatima\", \"Noah\", \"Yuki\", \"Ethan\", \"Zara\",\n               \"Leo\", \"Amara\", \"Ivan\", \"Chloe\", \"Samuel\", \"Leila\", \"Kenji\", \"Olivia\", \"Diego\", \"Nadia\",\n               \"Arjun\", \"Isabel\", \"Tariq\", \"Mia\", \"Victor\", \"Sara\", \"Hugo\", \"Ana\", \"Felix\", \"Rosa\",",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FETCH_CATEGORIES",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "FETCH_CATEGORIES = [\n    \"INFORMATION-TECHNOLOGY\", \"ENGINEERING\", \"HR\", \"FINANCE\", \"ACCOUNTANT\",\n    \"SALES\", \"DESIGNER\", \"HEALTHCARE\", \"TEACHER\", \"BANKING\",\n]\n# Synthetic names (source resumes are anonymized)\nFIRST_NAMES = [\"James\", \"Maria\", \"Ahmed\", \"Priya\", \"Chen\", \"Sofia\", \"Daniel\", \"Aisha\", \"Lucas\", \"Emma\",\n               \"Omar\", \"Hannah\", \"Ravi\", \"Grace\", \"Mateo\", \"Fatima\", \"Noah\", \"Yuki\", \"Ethan\", \"Zara\",\n               \"Leo\", \"Amara\", \"Ivan\", \"Chloe\", \"Samuel\", \"Leila\", \"Kenji\", \"Olivia\", \"Diego\", \"Nadia\",\n               \"Arjun\", \"Isabel\", \"Tariq\", \"Mia\", \"Victor\", \"Sara\", \"Hugo\", \"Ana\", \"Felix\", \"Rosa\",\n               \"Kwame\", \"Elena\", \"Marco\", \"Ines\", \"Jonah\", \"Lina\", \"Pavel\", \"Ruth\", \"Andre\", \"Maya\"]",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "FIRST_NAMES",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "FIRST_NAMES = [\"James\", \"Maria\", \"Ahmed\", \"Priya\", \"Chen\", \"Sofia\", \"Daniel\", \"Aisha\", \"Lucas\", \"Emma\",\n               \"Omar\", \"Hannah\", \"Ravi\", \"Grace\", \"Mateo\", \"Fatima\", \"Noah\", \"Yuki\", \"Ethan\", \"Zara\",\n               \"Leo\", \"Amara\", \"Ivan\", \"Chloe\", \"Samuel\", \"Leila\", \"Kenji\", \"Olivia\", \"Diego\", \"Nadia\",\n               \"Arjun\", \"Isabel\", \"Tariq\", \"Mia\", \"Victor\", \"Sara\", \"Hugo\", \"Ana\", \"Felix\", \"Rosa\",\n               \"Kwame\", \"Elena\", \"Marco\", \"Ines\", \"Jonah\", \"Lina\", \"Pavel\", \"Ruth\", \"Andre\", \"Maya\"]\nLAST_NAMES = [\"Smith\", \"Garcia\", \"Khan\", \"Patel\", \"Wang\", \"Rossi\", \"Miller\", \"Bello\", \"Silva\", \"Brown\",\n              \"Haddad\", \"Fischer\", \"Iyer\", \"Kim\", \"Lopez\", \"Rahman\", \"Wilson\", \"Tanaka\", \"Clark\", \"Ali\",\n              \"Moreau\", \"Okafor\", \"Petrov\", \"Dubois\", \"Turner\", \"Nasser\", \"Sato\", \"Evans\", \"Torres\", \"Hassan\",\n              \"Mehta\", \"Costa\", \"Aziz\", \"Young\", \"Novak\", \"Cohen\", \"Martin\", \"Pereira\", \"Weber\", \"Diaz\",\n              \"Mensah\", \"Popescu\", \"Bianchi\", \"Ferreira\", \"Reed\", \"Saleh\", \"Volkov\", \"Adler\", \"Moore\", \"Shah\"]",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "LAST_NAMES",
+        "kind": 5,
+        "importPath": "src.constants",
+        "description": "src.constants",
+        "peekOfCode": "LAST_NAMES = [\"Smith\", \"Garcia\", \"Khan\", \"Patel\", \"Wang\", \"Rossi\", \"Miller\", \"Bello\", \"Silva\", \"Brown\",\n              \"Haddad\", \"Fischer\", \"Iyer\", \"Kim\", \"Lopez\", \"Rahman\", \"Wilson\", \"Tanaka\", \"Clark\", \"Ali\",\n              \"Moreau\", \"Okafor\", \"Petrov\", \"Dubois\", \"Turner\", \"Nasser\", \"Sato\", \"Evans\", \"Torres\", \"Hassan\",\n              \"Mehta\", \"Costa\", \"Aziz\", \"Young\", \"Novak\", \"Cohen\", \"Martin\", \"Pereira\", \"Weber\", \"Diaz\",\n              \"Mensah\", \"Popescu\", \"Bianchi\", \"Ferreira\", \"Reed\", \"Saleh\", \"Volkov\", \"Adler\", \"Moore\", \"Shah\"]",
+        "detail": "src.constants",
+        "documentation": {}
+    },
+    {
+        "label": "load_ground_truth",
+        "kind": 2,
+        "importPath": "src.evaluation",
+        "description": "src.evaluation",
+        "peekOfCode": "def load_ground_truth(path: Path = GROUND_TRUTH) -> dict[str, dict[str, int]]:\n    return json.loads(path.read_text())[\"judgments\"]\ndef ranked_ids(result: dict) -> list[str]:\n    return [Path(m[\"resume_path\"]).stem for m in result[\"top_matches\"]]\ndef metrics_at_k(ranking: list[str], rel: dict[str, int], k: int = EVAL_K) -> dict[str, float]:\n    \"\"\"Precision@5/10 and Recall@10 count grade>=1 as relevant; nDCG uses graded relevance (2/1/0).\"\"\"\n    relevant = {r for r, g in rel.items() if g >= RELEVANT_GRADE}\n    top = ranking[:k]\n    hits = [r in relevant for r in top]\n    p5 = sum(hits[:5]) / 5",
+        "detail": "src.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "ranked_ids",
+        "kind": 2,
+        "importPath": "src.evaluation",
+        "description": "src.evaluation",
+        "peekOfCode": "def ranked_ids(result: dict) -> list[str]:\n    return [Path(m[\"resume_path\"]).stem for m in result[\"top_matches\"]]\ndef metrics_at_k(ranking: list[str], rel: dict[str, int], k: int = EVAL_K) -> dict[str, float]:\n    \"\"\"Precision@5/10 and Recall@10 count grade>=1 as relevant; nDCG uses graded relevance (2/1/0).\"\"\"\n    relevant = {r for r, g in rel.items() if g >= RELEVANT_GRADE}\n    top = ranking[:k]\n    hits = [r in relevant for r in top]\n    p5 = sum(hits[:5]) / 5\n    p10 = sum(hits) / k\n    recall = sum(hits) / len(relevant) if relevant else 0.0",
+        "detail": "src.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "metrics_at_k",
+        "kind": 2,
+        "importPath": "src.evaluation",
+        "description": "src.evaluation",
+        "peekOfCode": "def metrics_at_k(ranking: list[str], rel: dict[str, int], k: int = EVAL_K) -> dict[str, float]:\n    \"\"\"Precision@5/10 and Recall@10 count grade>=1 as relevant; nDCG uses graded relevance (2/1/0).\"\"\"\n    relevant = {r for r, g in rel.items() if g >= RELEVANT_GRADE}\n    top = ranking[:k]\n    hits = [r in relevant for r in top]\n    p5 = sum(hits[:5]) / 5\n    p10 = sum(hits) / k\n    recall = sum(hits) / len(relevant) if relevant else 0.0\n    mrr = next((1 / (i + 1) for i, h in enumerate(hits) if h), 0.0)\n    dcg = sum((2 ** rel.get(r, 0) - 1) / math.log2(i + 2) for i, r in enumerate(top))",
+        "detail": "src.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate",
+        "kind": 2,
+        "importPath": "src.evaluation",
+        "description": "src.evaluation",
+        "peekOfCode": "def evaluate(matcher: JobMatcher, modes=MODES, jd_dir: str | Path = JD_DIR,\n             apply_filters: bool = False) -> pd.DataFrame:\n    \"\"\"Per-JD metrics for each retrieval mode. Filters are off by default so we measure ranking quality.\"\"\"\n    gt = load_ground_truth(Path(jd_dir) / \"ground_truth.json\")\n    rows = []\n    for jd_file, rel in gt.items():\n        text = read_file(Path(jd_dir) / jd_file)\n        for mode in modes:\n            res = matcher.match(text, k=EVAL_K, mode=mode, apply_filters=apply_filters)\n            rows.append({\"jd\": jd_file.removesuffix(\".txt\"), \"mode\": mode,",
+        "detail": "src.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "measure_latency",
+        "kind": 2,
+        "importPath": "src.evaluation",
+        "description": "src.evaluation",
+        "peekOfCode": "def measure_latency(matcher: JobMatcher, runs: int = LATENCY_RUNS, jd_dir: str | Path = JD_DIR) -> pd.DataFrame:\n    \"\"\"Cycle through the JDs `runs` times total, recording per-stage timings (ms).\"\"\"\n    texts = [read_file(p) for p in sorted(Path(jd_dir).glob(\"*.txt\"))]\n    rows = []\n    for i in range(runs):\n        t = texts[i % len(texts)]\n        t0 = time.perf_counter()\n        res = matcher.match(t, k=EVAL_K)\n        wall = (time.perf_counter() - t0) * 1000\n        rows.append({**res[\"stats\"][\"timings_ms\"], \"wall\": wall})",
+        "detail": "src.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "summarize_latency",
+        "kind": 2,
+        "importPath": "src.evaluation",
+        "description": "src.evaluation",
+        "peekOfCode": "def summarize_latency(df: pd.DataFrame) -> pd.DataFrame:\n    return df.agg([lambda s: np.percentile(s, 50), lambda s: np.percentile(s, 95), \"mean\"]).set_axis(\n        [\"p50_ms\", \"p95_ms\", \"mean_ms\"]).T.round(2)\ndef cli(argv: list[str] | None = None) -> None:\n    from .resume_rag import ResumeRAG\n    ap = argparse.ArgumentParser(prog=\"main.py evaluate\", description=__doc__,\n                                 formatter_class=argparse.RawDescriptionHelpFormatter)\n    ap.add_argument(\"--index-dir\", default=str(INDEX_DIR))\n    ap.add_argument(\"--runs\", type=int, default=LATENCY_RUNS)\n    args = ap.parse_args(argv)",
+        "detail": "src.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "cli",
+        "kind": 2,
+        "importPath": "src.evaluation",
+        "description": "src.evaluation",
+        "peekOfCode": "def cli(argv: list[str] | None = None) -> None:\n    from .resume_rag import ResumeRAG\n    ap = argparse.ArgumentParser(prog=\"main.py evaluate\", description=__doc__,\n                                 formatter_class=argparse.RawDescriptionHelpFormatter)\n    ap.add_argument(\"--index-dir\", default=str(INDEX_DIR))\n    ap.add_argument(\"--runs\", type=int, default=LATENCY_RUNS)\n    args = ap.parse_args(argv)\n    m = JobMatcher(ResumeRAG.load(args.index_dir))\n    df = evaluate(m)\n    print(df.groupby(\"mode\")[METRICS].mean().round(3))",
+        "detail": "src.evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "list_files",
+        "kind": 2,
+        "importPath": "src.file_tools",
+        "description": "src.file_tools",
+        "peekOfCode": "def list_files(directory: str | Path, exts: tuple[str, ...] = SUPPORTED_EXTS) -> list[Path]:\n    \"\"\"Return supported files in `directory` (non-recursive), sorted, skipping hidden/_ files.\"\"\"\n    d = Path(directory)\n    if not d.is_dir():\n        raise NotADirectoryError(d)\n    return sorted(\n        p for p in d.iterdir()\n        if p.is_file() and p.suffix.lower() in exts and not p.name.startswith((\".\", \"_\"))\n    )\ndef file_info(path: str | Path) -> dict:",
+        "detail": "src.file_tools",
+        "documentation": {}
+    },
+    {
+        "label": "file_info",
+        "kind": 2,
+        "importPath": "src.file_tools",
+        "description": "src.file_tools",
+        "peekOfCode": "def file_info(path: str | Path) -> dict:\n    p = Path(path)\n    st = p.stat()\n    return {\n        \"path\": str(p),\n        \"name\": p.name,\n        \"ext\": p.suffix.lower(),\n        \"size_bytes\": st.st_size,\n        \"modified\": datetime.fromtimestamp(st.st_mtime).isoformat(timespec=\"seconds\"),\n    }",
+        "detail": "src.file_tools",
+        "documentation": {}
+    },
+    {
+        "label": "rel",
+        "kind": 2,
+        "importPath": "src.file_tools",
+        "description": "src.file_tools",
+        "peekOfCode": "def rel(path: str | Path) -> str:\n    \"\"\"Path relative to the project root when possible (e.g. 'resumes/john_doe.pdf').\"\"\"\n    p = Path(path).resolve()\n    try:\n        return str(p.relative_to(ROOT))\n    except ValueError:\n        return str(path)\ndef _read_pdf(p: Path) -> str:\n    from pypdf import PdfReader\n    reader = PdfReader(str(p))",
+        "detail": "src.file_tools",
+        "documentation": {}
+    },
+    {
+        "label": "read_file",
+        "kind": 2,
+        "importPath": "src.file_tools",
+        "description": "src.file_tools",
+        "peekOfCode": "def read_file(path: str | Path) -> str:\n    \"\"\"Read a document and return cleaned plain text.\"\"\"\n    p = Path(path)\n    ext = p.suffix.lower()\n    if ext == \".pdf\":\n        raw = _read_pdf(p)\n    elif ext == \".docx\":\n        raw = _read_docx(p)\n    elif ext in (\".txt\", \".md\"):\n        raw = p.read_text(encoding=\"utf-8\", errors=\"ignore\")",
+        "detail": "src.file_tools",
+        "documentation": {}
+    },
+    {
+        "label": "Requirement",
+        "kind": 6,
+        "importPath": "src.job_matcher",
+        "description": "src.job_matcher",
+        "peekOfCode": "class Requirement:\n    kind: str                 # \"skill\" | \"skill_years\" | \"experience\" | \"degree\"\n    skill: str | None = None\n    years: float | None = None\n    level: int | None = None  # degree level (see constants.DEGREES)\n    source: str = \"jd\"        # \"jd\" (auto-detected) | \"cli\"\n    text: str = \"\"\n    def describe(self) -> str:\n        if self.kind == \"skill_years\":\n            return f\"{self.years:g}+ years {self.skill}\"",
+        "detail": "src.job_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "JobProfile",
+        "kind": 6,
+        "importPath": "src.job_matcher",
+        "description": "src.job_matcher",
+        "peekOfCode": "class JobProfile:\n    title: str\n    required_skills: list[str]\n    preferred_skills: list[str]\n    must_haves: list[Requirement] = field(default_factory=list)\n    min_years: float | None = None\n    degree_level: int | None = None\n    @property\n    def must_skills(self) -> list[str]:\n        return [r.skill for r in self.must_haves if r.skill]",
+        "detail": "src.job_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "JobMatcher",
+        "kind": 6,
+        "importPath": "src.job_matcher",
+        "description": "src.job_matcher",
+        "peekOfCode": "class JobMatcher:\n    def __init__(self, rag: ResumeRAG, weights: dict[str, float] | None = None):\n        self.rag = rag\n        self.weights = {**DEFAULT_WEIGHTS, **(weights or {})}\n        rag.embed_query(\"warm-up\")  # load the embedding model now so per-query latency is honest\n        self.vectors = rag.chunk_vectors()\n        self.bm25 = BM25Okapi([_tokenize(f\"{c['section']} {c['text']}\") for c in rag.chunks])\n        self.chunks_by_resume: dict[str, list[int]] = defaultdict(list)\n        for i, c in enumerate(rag.chunks):\n            self.chunks_by_resume[c[\"resume_id\"]].append(i)",
+        "detail": "src.job_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "parse_job_description",
+        "kind": 2,
+        "importPath": "src.job_matcher",
+        "description": "src.job_matcher",
+        "peekOfCode": "def parse_job_description(text: str) -> JobProfile:\n    \"\"\"Extract skills, must-have requirements, minimum experience and degree from a JD.\"\"\"\n    lines = [l.strip(\" -•\\t\") for l in text.split(\"\\n\") if l.strip()]\n    title = lines[0] if lines else \"Job\"\n    # each ';' clause is judged on its own: \"Bachelor's in Accounting; CPA a plus\"\n    clauses = [c.strip() for l in lines[1:] for c in l.split(\";\") if c.strip()]\n    required, preferred, musts = [], [], []\n    min_years = degree_level = None\n    for line in clauses:\n        skills = find_skills(line)",
+        "detail": "src.job_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "parse_cli_must",
+        "kind": 2,
+        "importPath": "src.job_matcher",
+        "description": "src.job_matcher",
+        "peekOfCode": "def parse_cli_must(spec: str) -> Requirement:\n    \"\"\"'Python:5' -> 5+ years Python, 'SQL' -> must know SQL, 'years:5' -> 5+ years overall.\"\"\"\n    name, _, yrs = spec.partition(\":\")\n    if name.strip().lower() in (\"years\", \"experience\", \"exp\"):\n        return Requirement(\"experience\", years=float(yrs), source=\"cli\", text=spec)\n    skill = normalize_skill(name)\n    if not skill:\n        raise SystemExit(f\"Unknown skill in --must: {name!r} (see skills.py)\")\n    if yrs:\n        return Requirement(\"skill_years\", skill, float(yrs), source=\"cli\", text=spec)",
+        "detail": "src.job_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "cli",
+        "kind": 2,
+        "importPath": "src.job_matcher",
+        "description": "src.job_matcher",
+        "peekOfCode": "def cli(argv: list[str] | None = None) -> None:\n    ap = argparse.ArgumentParser(prog=\"main.py match\", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)\n    ap.add_argument(\"jd_files\", nargs=\"*\", help=\"job description file(s)\")\n    ap.add_argument(\"--text\", help=\"job description given inline instead of a file\")\n    ap.add_argument(\"--k\", type=int, default=DEFAULT_K)\n    ap.add_argument(\"--must\", action=\"append\", default=[], help='extra must-have, e.g. \"Python:5\", \"SQL\", \"years:3\"')\n    ap.add_argument(\"--no-jd-must\", action=\"store_true\", help=\"ignore must-haves auto-detected in the JD\")\n    ap.add_argument(\"--mode\", choices=MODES, default=MODES[0])\n    ap.add_argument(\"--index-dir\", default=str(INDEX_DIR))\n    ap.add_argument(\"--out\", help=\"directory to write <jd>.json results\")",
+        "detail": "src.job_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "_YEARS_RE",
+        "kind": 5,
+        "importPath": "src.job_matcher",
+        "description": "src.job_matcher",
+        "peekOfCode": "_YEARS_RE = re.compile(r\"(\\d{1,2})\\+?\\s*(?:years?|yrs?)\", re.I)\n_MUST_RE = re.compile(r\"\\bmust[- ]haves?\\b|\\bmust\\b|\\brequired\\b|\\bmandatory\\b\", re.I)\n_PREF_RE = re.compile(r\"nice to have|preferred|a plus|\\bplus\\b|bonus\", re.I)\ndef parse_job_description(text: str) -> JobProfile:\n    \"\"\"Extract skills, must-have requirements, minimum experience and degree from a JD.\"\"\"\n    lines = [l.strip(\" -•\\t\") for l in text.split(\"\\n\") if l.strip()]\n    title = lines[0] if lines else \"Job\"\n    # each ';' clause is judged on its own: \"Bachelor's in Accounting; CPA a plus\"\n    clauses = [c.strip() for l in lines[1:] for c in l.split(\";\") if c.strip()]\n    required, preferred, musts = [], [], []",
+        "detail": "src.job_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "_MUST_RE",
+        "kind": 5,
+        "importPath": "src.job_matcher",
+        "description": "src.job_matcher",
+        "peekOfCode": "_MUST_RE = re.compile(r\"\\bmust[- ]haves?\\b|\\bmust\\b|\\brequired\\b|\\bmandatory\\b\", re.I)\n_PREF_RE = re.compile(r\"nice to have|preferred|a plus|\\bplus\\b|bonus\", re.I)\ndef parse_job_description(text: str) -> JobProfile:\n    \"\"\"Extract skills, must-have requirements, minimum experience and degree from a JD.\"\"\"\n    lines = [l.strip(\" -•\\t\") for l in text.split(\"\\n\") if l.strip()]\n    title = lines[0] if lines else \"Job\"\n    # each ';' clause is judged on its own: \"Bachelor's in Accounting; CPA a plus\"\n    clauses = [c.strip() for l in lines[1:] for c in l.split(\";\") if c.strip()]\n    required, preferred, musts = [], [], []\n    min_years = degree_level = None",
+        "detail": "src.job_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "_PREF_RE",
+        "kind": 5,
+        "importPath": "src.job_matcher",
+        "description": "src.job_matcher",
+        "peekOfCode": "_PREF_RE = re.compile(r\"nice to have|preferred|a plus|\\bplus\\b|bonus\", re.I)\ndef parse_job_description(text: str) -> JobProfile:\n    \"\"\"Extract skills, must-have requirements, minimum experience and degree from a JD.\"\"\"\n    lines = [l.strip(\" -•\\t\") for l in text.split(\"\\n\") if l.strip()]\n    title = lines[0] if lines else \"Job\"\n    # each ';' clause is judged on its own: \"Bachelor's in Accounting; CPA a plus\"\n    clauses = [c.strip() for l in lines[1:] for c in l.split(\";\") if c.strip()]\n    required, preferred, musts = [], [], []\n    min_years = degree_level = None\n    for line in clauses:",
+        "detail": "src.job_matcher",
+        "documentation": {}
+    },
+    {
+        "label": "ResumeRAG",
+        "kind": 6,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "class ResumeRAG:\n    \"\"\"Embeds resume chunks into a FAISS inner-product index (cosine on normalized vectors).\n    FAISS stores only vectors; chunk rows and per-resume metadata live in JSON sidecar\n    files and are joined on the vector's integer position.\n    \"\"\"\n    def __init__(self, model_name: str = DEFAULT_MODEL, index_dir: str | Path = INDEX_DIR,\n                 chunker: str = DEFAULT_CHUNKER):\n        self.model_name = model_name\n        self.index_dir = Path(index_dir)\n        self.chunker = chunker",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "split_sections",
+        "kind": 2,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "def split_sections(text: str) -> list[tuple[str, str]]:\n    \"\"\"Split resume text into (section, body) pairs using known header lines.\n    Text before the first header is labelled 'profile' (title / contact block).\n    \"\"\"\n    sections: list[tuple[str, list[str]]] = [(\"profile\", [])]\n    for line in text.split(\"\\n\"):\n        canon = _header_section(line) if len(line) < MAX_HEADER_LEN else None\n        if canon:\n            sections.append((canon, []))\n        else:",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "chunk_resume",
+        "kind": 2,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "def chunk_resume(text: str, strategy: str = DEFAULT_CHUNKER) -> list[dict]:\n    \"\"\"Return chunks [{section, text}] using 'section' (header-aware) or 'fixed' (sliding window).\"\"\"\n    if strategy == \"fixed\":\n        flat = _tidy(text)\n        return [{\"section\": \"fixed\", \"text\": t} for t in _window_split(flat, FIXED_CHUNK_CHARS, FIXED_CHUNK_OVERLAP)]\n    secs = split_sections(text)\n    if len(secs) <= 1:  # no headers detected -> fall back to sliding window\n        return [{\"section\": \"body\", \"text\": t} for t in _window_split(_tidy(text))]\n    chunks = []\n    for name, body in secs:",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "extract_experience_years",
+        "kind": 2,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "def extract_experience_years(text: str) -> float:\n    \"\"\"Total experience: merged employment date ranges; falls back to stated 'X years experience'.\n    'Current/Present' resolves to the latest year mentioned in the resume (these resumes\n    are a few years old, so using today's date would inflate experience).\n    \"\"\"\n    flat = re.sub(r\"\\s+\", \" \", text)\n    years_seen = [int(y) for y in re.findall(r\"\\b(?:19|20)\\d{2}\\b\", flat)]\n    ref_year = min(max(years_seen), date.today().year) if years_seen else date.today().year\n    intervals = []\n    for m in DATE_RANGE_RE.finditer(flat):",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "extract_education",
+        "kind": 2,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "def extract_education(sections: list[tuple[str, str]], text: str) -> dict:\n    edu_text = \"\\n\".join(b for s, b in sections if s == \"education\") or text\n    lines = [l.strip() for l in edu_text.split(\"\\n\") if l.strip()]\n    best = None\n    for i, line in enumerate(lines):\n        for level, label, pat in DEGREES:\n            m = re.search(rf\"(?<!\\w)(?:{pat})(?!\\w)\", line, re.I)\n            if not m:\n                continue\n            if not best or level > best[\"level\"]:",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "extract_skill_years",
+        "kind": 2,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "def extract_skill_years(text: str, skills: list[str]) -> dict[str, int]:\n    \"\"\"'5 years of Python', 'Python (3 yrs)' -> {'Python': 5}. Looks ~60 chars around a year mention.\"\"\"\n    flat = re.sub(r\"\\s+\", \" \", text)\n    out: dict[str, int] = {}\n    for m in SKILL_YEARS_RE.finditer(flat):\n        n = int(m.group(1))\n        if n > MAX_CAREER_YEARS:\n            continue\n        before, after = SKILL_YEARS_WINDOW\n        lo, hi = max(0, m.start() - before), m.end() + after",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "extract_metadata",
+        "kind": 2,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "def extract_metadata(text: str, sections: list[tuple[str, str]], name_hint: str | None = None) -> dict:\n    lines = [l.strip() for l in text.split(\"\\n\") if l.strip()]\n    headline = lines[0][:HEADLINE_MAX_CHARS] if lines else \"\"\n    skills_text = \"\\n\".join(b for s, b in sections if s in (\"skills\", \"summary\"))\n    primary = find_skills(skills_text)\n    skills = primary + [s for s in find_skills(text) if s not in primary]\n    return {\n        \"name\": name_hint or headline.title(),\n        \"headline\": headline,\n        \"skills\": skills,",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "cli",
+        "kind": 2,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "def cli(argv: list[str] | None = None) -> None:\n    ap = argparse.ArgumentParser(prog=\"main.py\", description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)\n    sub = ap.add_subparsers(dest=\"cmd\", required=True)\n    b = sub.add_parser(\"build\")\n    b.add_argument(\"resume_dir\", nargs=\"?\", default=str(RESUMES_DIR))\n    b.add_argument(\"--model\", default=DEFAULT_MODEL)\n    b.add_argument(\"--chunker\", choices=CHUNKERS, default=DEFAULT_CHUNKER)\n    b.add_argument(\"--index-dir\", default=str(INDEX_DIR))\n    q = sub.add_parser(\"query\")\n    q.add_argument(\"text\")",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "_HEADER_LOOKUP",
+        "kind": 5,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "_HEADER_LOOKUP = {alias: canon for canon, aliases in SECTION_ALIASES.items() for alias in aliases}\ndef _header_section(line: str) -> str | None:\n    key = re.sub(r\"[:\\s]+$\", \"\", line.strip()).lower()\n    key = re.sub(r\"\\s+\", \" \", key)\n    return _HEADER_LOOKUP.get(key)\ndef split_sections(text: str) -> list[tuple[str, str]]:\n    \"\"\"Split resume text into (section, body) pairs using known header lines.\n    Text before the first header is labelled 'profile' (title / contact block).\n    \"\"\"\n    sections: list[tuple[str, list[str]]] = [(\"profile\", [])]",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "_MONTH_RE",
+        "kind": 5,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "_MONTH_RE = r\"(?:jan|feb|mar|apr|may|jun|jul|aug|sep|sept|oct|nov|dec)[a-z]*\\.?\"\n_POINT = r\"(?:(?P<@m>\" + _MONTH_RE + r\")\\s+|(?P<@n>\\d{1,2})\\s*/\\s*)?(?P<@y>(?:19|20)\\d{2})\"\nDATE_RANGE_RE = re.compile(\n    _POINT.replace(\"@\", \"s\") + r\"\\s*(?:-|–|—|to|until)\\s*(?:\" + _POINT.replace(\"@\", \"e\")\n    + r\"|(?P<cur>current|present|now|today))\",\n    re.IGNORECASE,\n)\nYEARS_STATED_RE = re.compile(r\"(\\d{1,2})\\+?\\s*(?:years?|yrs?)(?:\\s+of)?(?:\\s+\\w+){0,3}?\\s+experience\", re.I)\nSKILL_YEARS_RE = re.compile(r\"(\\d{1,2})\\+?\\s*(?:years?|yrs?)\\b\", re.I)\ndef _to_months(month_name: str | None, month_num: str | None, year: str) -> int:",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "_POINT",
+        "kind": 5,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "_POINT = r\"(?:(?P<@m>\" + _MONTH_RE + r\")\\s+|(?P<@n>\\d{1,2})\\s*/\\s*)?(?P<@y>(?:19|20)\\d{2})\"\nDATE_RANGE_RE = re.compile(\n    _POINT.replace(\"@\", \"s\") + r\"\\s*(?:-|–|—|to|until)\\s*(?:\" + _POINT.replace(\"@\", \"e\")\n    + r\"|(?P<cur>current|present|now|today))\",\n    re.IGNORECASE,\n)\nYEARS_STATED_RE = re.compile(r\"(\\d{1,2})\\+?\\s*(?:years?|yrs?)(?:\\s+of)?(?:\\s+\\w+){0,3}?\\s+experience\", re.I)\nSKILL_YEARS_RE = re.compile(r\"(\\d{1,2})\\+?\\s*(?:years?|yrs?)\\b\", re.I)\ndef _to_months(month_name: str | None, month_num: str | None, year: str) -> int:\n    m = 1",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "DATE_RANGE_RE",
+        "kind": 5,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "DATE_RANGE_RE = re.compile(\n    _POINT.replace(\"@\", \"s\") + r\"\\s*(?:-|–|—|to|until)\\s*(?:\" + _POINT.replace(\"@\", \"e\")\n    + r\"|(?P<cur>current|present|now|today))\",\n    re.IGNORECASE,\n)\nYEARS_STATED_RE = re.compile(r\"(\\d{1,2})\\+?\\s*(?:years?|yrs?)(?:\\s+of)?(?:\\s+\\w+){0,3}?\\s+experience\", re.I)\nSKILL_YEARS_RE = re.compile(r\"(\\d{1,2})\\+?\\s*(?:years?|yrs?)\\b\", re.I)\ndef _to_months(month_name: str | None, month_num: str | None, year: str) -> int:\n    m = 1\n    if month_name:",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "YEARS_STATED_RE",
+        "kind": 5,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "YEARS_STATED_RE = re.compile(r\"(\\d{1,2})\\+?\\s*(?:years?|yrs?)(?:\\s+of)?(?:\\s+\\w+){0,3}?\\s+experience\", re.I)\nSKILL_YEARS_RE = re.compile(r\"(\\d{1,2})\\+?\\s*(?:years?|yrs?)\\b\", re.I)\ndef _to_months(month_name: str | None, month_num: str | None, year: str) -> int:\n    m = 1\n    if month_name:\n        m = MONTHS.get(month_name[:3].lower(), 1)\n    elif month_num and 1 <= int(month_num) <= 12:\n        m = int(month_num)\n    return int(year) * 12 + (m - 1)\ndef extract_experience_years(text: str) -> float:",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "SKILL_YEARS_RE",
+        "kind": 5,
+        "importPath": "src.resume_rag",
+        "description": "src.resume_rag",
+        "peekOfCode": "SKILL_YEARS_RE = re.compile(r\"(\\d{1,2})\\+?\\s*(?:years?|yrs?)\\b\", re.I)\ndef _to_months(month_name: str | None, month_num: str | None, year: str) -> int:\n    m = 1\n    if month_name:\n        m = MONTHS.get(month_name[:3].lower(), 1)\n    elif month_num and 1 <= int(month_num) <= 12:\n        m = int(month_num)\n    return int(year) * 12 + (m - 1)\ndef extract_experience_years(text: str) -> float:\n    \"\"\"Total experience: merged employment date ranges; falls back to stated 'X years experience'.",
+        "detail": "src.resume_rag",
+        "documentation": {}
+    },
+    {
+        "label": "find_skills",
+        "kind": 2,
+        "importPath": "src.skills",
+        "description": "src.skills",
+        "peekOfCode": "def find_skills(text: str) -> list[str]:\n    \"\"\"Return canonical skills mentioned in `text`, in taxonomy order.\"\"\"\n    return [s for s in ALL_SKILLS if _pattern(s).search(text)]\ndef skill_positions(text: str, skill: str) -> list[int]:\n    return [m.start() for m in _pattern(skill).finditer(text)]\ndef normalize_skill(name: str) -> str | None:\n    \"\"\"Map a free-text skill name (e.g. 'MS Excel', 'postgres') to its canonical name.\"\"\"\n    name = name.strip()\n    for s in ALL_SKILLS:\n        if s.lower() == name.lower():",
+        "detail": "src.skills",
+        "documentation": {}
+    },
+    {
+        "label": "skill_positions",
+        "kind": 2,
+        "importPath": "src.skills",
+        "description": "src.skills",
+        "peekOfCode": "def skill_positions(text: str, skill: str) -> list[int]:\n    return [m.start() for m in _pattern(skill).finditer(text)]\ndef normalize_skill(name: str) -> str | None:\n    \"\"\"Map a free-text skill name (e.g. 'MS Excel', 'postgres') to its canonical name.\"\"\"\n    name = name.strip()\n    for s in ALL_SKILLS:\n        if s.lower() == name.lower():\n            return s\n    hits = find_skills(name)\n    return hits[0] if hits else None",
+        "detail": "src.skills",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_skill",
+        "kind": 2,
+        "importPath": "src.skills",
+        "description": "src.skills",
+        "peekOfCode": "def normalize_skill(name: str) -> str | None:\n    \"\"\"Map a free-text skill name (e.g. 'MS Excel', 'postgres') to its canonical name.\"\"\"\n    name = name.strip()\n    for s in ALL_SKILLS:\n        if s.lower() == name.lower():\n            return s\n    hits = find_skills(name)\n    return hits[0] if hits else None",
+        "detail": "src.skills",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main(argv: list[str] | None = None) -> None:\n    argv = sys.argv[1:] if argv is None else argv\n    if not argv or argv[0] in (\"-h\", \"--help\", \"help\"):\n        print(__doc__)\n        return\n    cmd, rest = argv[0], argv[1:]\n    if cmd in (\"build\", \"query\", \"show\"):\n        from src.resume_rag import cli\n        cli([cmd, *rest])\n    elif cmd == \"match\":",
+        "detail": "main",
+        "documentation": {}
+    }
+]
